@@ -47,16 +47,16 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 ## <span class="animated-text">**Education:**</span>
 - Bachelor’s Degree in Mechanical Engineering - Nepal 
-    - Engineering Mathematics | Statistics and Probability | Computer Programming | Control Systems | Numerical Method | CAD | Engineering Drawing | Project Engineering and Management | Engineering Economics | Engineering Professional Ethics | Electrical and Electronics Engineering | Metrology | SOM | Instrumentation and Measurement | Engineering Physics | Engineering Chemistry | Applied Mechanics | Thermodynamics | Fluid Mechanics | Theory of Machines and Mechanisms | Machine Design | Heat and Mass Transfer | Manufacturing Engineering | Material Science | Internal Combustion Engines | Renewable Energy Systems | Automobile Engineering | Hydraulics and Pneumatics | Industrial Engineering | Kinematics of Machines | Refrigeration and Air Conditioning | Finite Element Method | Project Work |
+    - Engineering Mathematics *|* Statistics and Probability *|* Computer Programming *|* Control Systems *|* Numerical Method *|* CAD *|* Engineering Drawing *|* Project Engineering and Management *|* Engineering Economics *|* Engineering Professional Ethics *|* Electrical and Electronics Engineering *|* Metrology *|* SOM *|* Instrumentation and Measurement *|* Engineering Physics *|* Engineering Chemistry *|* Applied Mechanics *|* Thermodynamics *|* Fluid Mechanics *|* Theory of Machines and Mechanisms *|* Machine Design *|* Heat and Mass Transfer *|* Manufacturing Engineering *|* Material Science *|* Internal Combustion Engines *|* Renewable Energy Systems *|* Automobile Engineering *|* Hydraulics and Pneumatics *|* Industrial Engineering *|* Kinematics of Machines *|* Refrigeration and Air Conditioning *|* Finite Element Method *|* Project Work
       
 - Executive Post Graduate in Machine Learning & Artificial Intelligence - India
-  - Python Programming | Mathematics for AI/ML | Statistics and Exploratory Data Analytics | Data Analysis using SQL and Excel | Data Visualisation | Machine Learning | Deep learning | Natural Language Processing (NLP) | Reinforcement Learning | Computer Vision | Generative AI | LLM | Capstone
+  - Python Programming *|*  Mathematics for AI/ML *|*  Statistics and Exploratory Data Analytics *|*  Data Analysis using SQL and Excel *|*  Data Visualisation *|* Machine Learning *|*  Deep learning *|*  Natural Language Processing (NLP) *|*  Reinforcement Learning *|*  Computer Vision *|*  Generative AI *|*  LLM *|*  Capstone
     
 - Master’s Degree in Machine Learning & Artificial Intelligence - United Kingdom (UK)
-    - Statistics and EDA | Machine Learning | Deep learning | Natural Language Processing (NLP) | Reinforcement Learning | Computer Vision | Generative AI | LLM | Master Thesis
+    - Statistics and EDA *|*  Machine Learning *|*  Deep learning *|*  Natural Language Processing (NLP) *|*  Reinforcement Learning *|*  Computer Vision *|*  Generative AI *|*  LLM *|*  Master Thesis
 
 - Master’s Degree in Engineering - United States of America (USA) 
-    - Mathematical + Computational Modeling | Python Programming | Derivative Pricing | Deep Learning | Financial Data Visualization and Analysis | Stochastic Modeling | Portfolio Management | Financial Econometrics | Machine Learning  | Risk Management  | Financial Econometrics  | Master Thesis
+    - Mathematical + Computational Modeling *|*  Python Programming *|*  Derivative Pricing *|*  Deep Learning *|*  Data Visualization and Analysis *|*  Stochastic Modeling *|*  Portfolio Management *|*  Financial Econometrics *|*  Machine Learning  *|*  Risk Management  *|*  Financial Econometrics  *|*  Master Thesis
 
 
 ## <span class="animated-text">**Work Experience:**</span>
@@ -115,11 +115,12 @@ Architecting a sophisticated Generative Search System named Mr.HelpMate AI, util
 ### **AI-Driven Intelligent Symptom Checker:**
 Developed an AI-driven system designed to analyze user-reported symptoms and provide potential diagnoses in real-time. Utilizing advanced NLP and ML models, the system identifies and classifies symptoms to suggest possible medical conditions, as well as recommend potential treatment options. This empowers users with reliable health information while also assisting doctors and researchers in identifying patterns, enhancing early symptom evaluation, and improving healthcare accessibility. The tool supports healthcare professionals by streamlining diagnosis and treatment decisions, ultimately contributing to more efficient patient care.
 
-### **AI-Driven Heart Failure Prediction System::**
+### **AI-Driven Heart Failure Prediction System:**
 Developed a machine learning model to predict heart failure based on key clinical parameters, including anaemia, creatinine phosphokinase levels, diabetes, ejection fraction, blood pressure, platelets, serum creatinine, and serum sodium. This AI-driven system analyzes these indicators to predict heart failure risk, aiding in early diagnosis and improving treatment outcomes. Designed to assist doctors, researchers, and healthcare professionals in making more informed decisions, it is a cutting-edge solution at the intersection of AI and healthcare.
 
 ## <span class="animated-text">**Certificates:**</span>
-- Certificate for Registered Engineers, Nepal Engineering Council
+- Certificate for Registered Engineers
+- The Deep Learning Specialization, DeepLearning.AI 
 - Crash Course on Python, Google 
 - Linear Algebra for Machine Learning and Data Science, DeepLearning.AI 
 - Introduction to Artificial Intelligence (AI), IBM
