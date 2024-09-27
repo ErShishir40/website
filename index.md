@@ -47,17 +47,79 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 ## <span class="animated-text">**Education:**</span>
 - Bachelor’s Degree in Mechanical Engineering - Nepal 
-    - Engineering Mathematics *|* Statistics and Probability *|* Computer Programming *|* Control Systems *|* Numerical Method *|* CAD *|* Engineering Drawing *|* Project Engineering and Management *|* Engineering Economics *|* Engineering Professional Ethics *|* Electrical and Electronics Engineering *|* Metrology *|* SOM *|* Instrumentation and Measurement *|* Engineering Physics *|* Engineering Chemistry *|* Applied Mechanics *|* Thermodynamics *|* Fluid Mechanics *|* Theory of Machines and Mechanisms *|* Machine Design *|* Heat and Mass Transfer *|* Manufacturing Engineering *|* Material Science *|* Internal Combustion Engines *|* Renewable Energy Systems *|* Automobile Engineering *|* Hydraulics and Pneumatics *|* Industrial Engineering *|* Kinematics of Machines *|* Refrigeration and Air Conditioning *|* Finite Element Method *|* Project Work
+• Engineering Mathematics 
+• Statistics and Probability 
+• Computer Programming 
+• Control Systems 
+• Numerical Method 
+• CAD 
+• Engineering Drawing 
+• Project Engineering and Management 
+• Engineering Economics 
+• Engineering Professional Ethics 
+• Electrical and Electronics Engineering 
+• Metrology 
+• SOM 
+• Instrumentation and Measurement 
+• Engineering Physics 
+• Engineering Chemistry 
+• Applied Mechanics 
+• Thermodynamics 
+• Fluid Mechanics 
+• Theory of Machines and Mechanisms 
+• Machine Design 
+• Heat and Mass Transfer 
+• Manufacturing Engineering 
+• Material Science 
+• Internal Combustion Engines 
+• Renewable Energy Systems 
+• Automobile Engineering 
+• Hydraulics and Pneumatics 
+• Industrial Engineering 
+• Kinematics of Machines 
+• Refrigeration and Air Conditioning 
+• Finite Element Method 
+• Project Work
       
 - Executive Post Graduate in Machine Learning & Artificial Intelligence - India
-  - Python Programming *|*  Mathematics for AI/ML *|*  Statistics and Exploratory Data Analytics *|*  Data Analysis using SQL and Excel *|*  Data Visualisation *|* Machine Learning *|*  Deep learning *|*  Natural Language Processing (NLP) *|*  Reinforcement Learning *|*  Computer Vision *|*  Generative AI *|*  LLM *|*  Capstone
-    
+• Python Programming  
+• Mathematics for AI/ML  
+• Statistics and Exploratory Data Analytics  
+• Data Analysis using SQL and Excel  
+• Data Visualisation  
+• Machine Learning  
+• Deep Learning  
+• Natural Language Processing (NLP)  
+• Reinforcement Learning  
+• Computer Vision  
+• Generative AI  
+• LLM  
+• Capstone  
+ 
 - Master’s Degree in Machine Learning & Artificial Intelligence - United Kingdom (UK)
-    - Statistics and EDA *|*  Machine Learning *|*  Deep learning *|*  Natural Language Processing (NLP) *|*  Reinforcement Learning *|*  Computer Vision *|*  Generative AI *|*  LLM *|*  Master Thesis
+• Statistics and EDA  
+• Machine Learning  
+• Deep Learning  
+• Natural Language Processing (NLP)  
+• Reinforcement Learning  
+• Computer Vision  
+• Generative AI  
+• LLM  
+• Master Thesis  
 
 - Master’s Degree in Engineering - United States of America (USA) 
-    - Mathematical + Computational Modeling *|*  Python Programming *|*  Derivative Pricing *|*  Deep Learning *|*  Data Visualization and Analysis *|*  Stochastic Modeling *|*  Portfolio Management *|*  Financial Econometrics *|*  Machine Learning  *|*  Risk Management  *|*  Financial Econometrics  *|*  Master Thesis
-
+• Mathematical + Computational Modeling  
+• Python Programming  
+• Derivative Pricing  
+• Deep Learning  
+• Data Visualization and Analysis  
+• Stochastic Modeling  
+• Portfolio Management  
+• Financial Econometrics  
+• Machine Learning  
+• Risk Management  
+• Financial Econometrics  
+• Master Thesis  
 
 ## <span class="animated-text">**Work Experience:**</span>
 
