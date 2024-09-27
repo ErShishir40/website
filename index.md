@@ -120,17 +120,6 @@ Developed an AI-driven system designed to analyze user-reported symptoms and pro
 ### **AI-Driven Heart Failure Prediction System:**
 Developed a machine learning model to predict heart failure based on key clinical parameters, including anaemia, creatinine phosphokinase levels, diabetes, ejection fraction, blood pressure, platelets, serum creatinine, and serum sodium. This AI-driven system analyzes these indicators to predict heart failure risk, aiding in early diagnosis and improving treatment outcomes. Designed to assist doctors, researchers, and healthcare professionals in making more informed decisions, it is a cutting-edge solution at the intersection of AI and healthcare.
 
-## <span class="animated-text">**Certificates:**</span>
-- Certificate for Registered Engineers
-- The Deep Learning Specialization, DeepLearning.AI 
-- Crash Course on Python, Google 
-- Linear Algebra for Machine Learning and Data Science, DeepLearning.AI 
-- Introduction to Artificial Intelligence (AI), IBM
-- Programming for Everybody (Getting Started with Python), University of Michigan 
-- The Smithsonian Entrepreneur Incubator Course, US Embassy
-- Mechanical Design, Solidworks 
-- Engineering and Product Design Processes, Arizona State University 
-
 ## <span class="animated-text">**Mechanical Projects:**</span>
 
 ### **Design and Development of Magnetic Bicycle:**
@@ -156,6 +145,17 @@ The performance of the bicycle was found to be increased significantly after imp
 ![Picture13](https://github.com/Erkhanal/portfolio/assets/148779208/58ab3f93-1090-425c-8d3a-d8df8617d31c)
 
 
+## <span class="animated-text">**Certificates:**</span>
+- Certificate for Registered Engineers
+- The Deep Learning Specialization, DeepLearning.AI 
+- Crash Course on Python, Google 
+- Linear Algebra for Machine Learning and Data Science, DeepLearning.AI 
+- Introduction to Artificial Intelligence (AI), IBM
+- Programming for Everybody (Getting Started with Python), University of Michigan 
+- The Smithsonian Entrepreneur Incubator Course, US Embassy
+- Mechanical Design, Solidworks 
+- Engineering and Product Design Processes, Arizona State University
+  
 ## <span class="animated-text">**Contact:**</span>
 If you have any questions or want to collaborate, please don't hesitate to reach out. You can aslo connect with me through LinkedIn.
 
