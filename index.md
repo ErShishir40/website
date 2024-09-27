@@ -43,17 +43,26 @@ title: Shishir Khanal
 
 ## <span class="animated-text">**Summary:**</span>
 
-Qualified engineer with a distinct knowledge of engineering, having a strong passion for design, programming and AI. Over 6 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in MS office, SolidWorks, AutoCAD(3D&2D), ML/AI, deep learning, NLP, Generative AI, and programming languages such as Python.
+Qualified engineer with a distinct knowledge of engineering, having a strong passion for design, programming and AI. Over 6 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in MS office, SolidWorks, AutoCAD(3D&2D), ML/AI, deep learning, NLP, Generative AI, LLM, and programming languages such as Python.
 
 ## <span class="animated-text">**Education:**</span>
-- Bachelor’s Degree in Mechanical Engineering
-- Executive Post Graduate in Machine Learning & Artificial Intelligence
-- Master of Science (MSc) in Machine Learning & Artificial Intelligence
+- Bachelor’s Degree in Mechanical Engineering - Nepal 
+    - Engineering Mathematics | Statistics and Probability | Computer Programming | Control Systems | Numerical Method | CAD | Engineering Drawing | Project Engineering and Management | Engineering Economics | Engineering Professional Ethics | Electrical and Electronics Engineering | Metrology | SOM | Instrumentation and Measurement | Engineering Physics | Engineering Chemistry | Applied Mechanics | Thermodynamics | Fluid Mechanics | Theory of Machines and Mechanisms | Machine Design | Heat and Mass Transfer | Manufacturing Engineering | Material Science | Internal Combustion Engines | Renewable Energy Systems | Automobile Engineering | Hydraulics and Pneumatics | Industrial Engineering | Kinematics of Machines | Refrigeration and Air Conditioning | Finite Element Method | Project Work |
+      
+- Executive Post Graduate in Machine Learning & Artificial Intelligence - India
+  - Python Programming | Mathematics for AI/ML | Statistics and Exploratory Data Analytics | Data Analysis using SQL and Excel | Data Visualisation | Machine Learning | Deep learning | Natural Language Processing (NLP) | Reinforcement Learning | Computer Vision | Generative AI | LLM | Capstone
+    
+- Master’s Degree in Machine Learning & Artificial Intelligence - United Kingdom (UK)
+    - Statistics and EDA | Machine Learning | Deep learning | Natural Language Processing (NLP) | Reinforcement Learning | Computer Vision | Generative AI | LLM | Master Thesis
+
+- Master’s Degree in Engineering - United States of America (USA) 
+    - Mathematical + Computational Modeling | Python Programming | Derivative Pricing | Deep Learning | Financial Data Visualization and Analysis | Stochastic Modeling | Portfolio Management | Financial Econometrics | Machine Learning  | Risk Management  | Financial Econometrics  | Master Thesis
+
 
 ## <span class="animated-text">**Work Experience:**</span>
 
-- System Development and Design Engineer at Tokyo, Japan-(09/2020 to present)
-- Mechanical Engineer at Tata Motors-(01/2018 to 08/2019)
+- System Development and Design Engineer at Tokyo, Japan-(2020 to present)
+- Mechanical Engineer at Tata Motors-(2018 to 2019)
 - Internship Engineer at Pepsi-2017
   
 ## <span class="animated-text">**Skills:**</span>
@@ -71,35 +80,43 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 ## <span class="animated-text">**Languages skills:**</span>
 - English: Working proficiency plus (TOEIC)
 - Japanese: Intermediate Level Proficiency (JLPT)
+- Hindi: Full professional proficiency
+- Nepali: Native or bilingual proficiency
   
 ## <span class="animated-text">**ML/AI Projects:**</span>
 
-### **Bike Sharing Project:**
-Building a multiple linear regression model to predict the demand for shared bikes. The project is based on a dataset provided by BoomBikes, a US bike-sharing provider, which aims to understand the factors affecting the demand for shared bikes in the American market.
+### **AI-Driven Gesture Reorganization System:**
+Developing a cutting-edge gesture recognition system for smart TVs, leveraging advanced deep learning techniques to enable intuitive, hands-free control. This project involves designing and implementing a robust deep learning model to accurately identify and classify five distinct user gestures from real-time video feeds. Utilizing sophisticated neural network architectures, including convolutional layers for feature extraction and recurrent layers for temporal pattern recognition, the system aims to translate user gestures into TV commands, eliminating the need for a remote control. This innovative approach enhances user experience by providing seamless and interactive control, advancing the usability and functionality of smart home devices.
 
-### **House Price Prediction:** 
-Predicting house prices using advanced regression techniques such as Ridge and Lasso.
+### **AI-Driven Bike Sharing Project:**
+Developed a multiple linear regression model to forecast the demand for shared bikes using a dataset provided by BoomBikes, a leading bike-sharing service in the US. The project aimed to identify and analyze key factors influencing bike demand in various regions and weather conditions. The model was trained on historical data, incorporating variables such as temperature, humidity, wind speed, and seasonal effects to predict demand patterns. Feature engineering techniques, such as encoding categorical variables and scaling continuous variables, were used to improve model accuracy. Evaluated the model's performance using metrics like R-squared and Mean Absolute Error (MAE), achieving high predictive accuracy. The insights derived can help optimize resource allocation, improve customer satisfaction, and guide future business strategies.
 
-### **Telecom Churn Prediction:**
-Building the best prediction machine learning model using the provided data that is able to predict churning customers. And identify the important predictor variables for churn by building different models like logistic regression, decision trees or random Forest and choose the best performing model based on evaluation Metrics and business objectives.
+### **AI-Driven House Price Prediction System:** 
+Designed and implemented a predictive model for house prices using advanced regression techniques, including Ridge and Lasso regression. This system leverages historical housing market data, with features such as property size, location, number of rooms, and neighborhood demographics. Ridge regression was used to mitigate multicollinearity, while Lasso regression helped with feature selection by reducing the weight of less important variables to zero. The model was optimized using cross-validation techniques and evaluated through performance metrics like R-squared and Root Mean Squared Error (RMSE), providing accurate and interpretable predictions. The system offers valuable insights for real estate investors, homebuyers, and market analysts to make data-driven decisions.
 
-### **Melanoma-Detection Project:**
-Building a multiclass classification model using a custom convolutional neural network in TensorFlow, that can assist dermatologists to detect melanoma accurately and efficiently.
+### **AI-Driven Telecom Churn Prediction System:**
+Designing a churn prediction model for the telecommunications industry using advanced machine learning techniques. This project focuses on developing and optimizing predictive models to accurately forecast customer attrition, leveraging a range of algorithms including Logistic Regression, Decision Trees, and Random Forests. By systematically evaluating model performance through rigorous metrics and aligning with business objectives, the system aims to identify key predictor variables that contribute to customer churn. The ultimate goal is to implement the most effective model, providing actionable insights to enhance customer retention strategies and drive business growth.
 
-### **Gesture Reorganization Project:**
-Building a gesture recognition feature in the smart-TV using deep learning techniques that can recognize five different gestures performed by the user which will help users control the TV without using a remote.
+### **AI-Driven Melanoma-Detection System:**
+Engineering a state-of-the-art multiclass classification model utilizing a bespoke Convolutional Neural Network (CNN) architecture within TensorFlow to enable automated detection and classification of skin cancer. This project employs advanced deep learning methodologies, including sophisticated feature extraction and hierarchical neural network layers, to discern and differentiate melanoma and other dermatological malignancies with high precision. By integrating cutting-edge image preprocessing techniques and model optimization strategies, the system aims to deliver a highly reliable diagnostic tool that supports dermatologists in early and accurate cancer detection, thereby significantly enhancing clinical decision-making and patient management through automated, real-time analysis.
 
-### **Custom Entity Detection In Healthcare Data (NLP):**
-Building a custom NER to get the list of diseases and their treatment from a medical healthcare dataset.
+### **AI-Driven Custom Entity Detection System In Healthcare Data (NLP):**
+Developing an advanced Named Entity Recognition (NER) system tailored for the healthcare domain. This project focuses on leveraging state-of-the-art machine learning techniques to create a custom NER model designed to accurately extract and categorize medical entities from complex healthcare datasets. The primary goal is to identify and classify entities such as diseases, symptoms, and their corresponding treatments, enabling more efficient data analysis and supporting enhanced clinical decision-making. This AI-driven system significantly aids healthcare professionals, including doctors and medical researchers, by providing precise and actionable insights from vast amounts of unstructured data, ultimately contributing to improved patient outcomes and accelerated medical research.
 
-### **Automatic Classification Of Customer Complaints:**
-Creating a solution that will help in identifying the type of complaint ticket raised by the customers.
+### **AI-Driven Automatic Classification System Of Customer Complaints:**
+Developing an intelligent classification system for automating the categorization of customer complaint tickets. This project leverages advanced machine learning techniques to build a solution that accurately identifies and classifies the type of complaint raised by customers from unstructured text data. By employing sophisticated natural language processing (NLP) methods and machine learning algorithms, the system aims to streamline complaint management processes, enhance operational efficiency, and improve response accuracy. The ultimate objective is to enable businesses to swiftly address customer issues and drive better customer satisfaction through automated, precise complaint categorization.
 
-### **Fake News Detection System:**
-Building fake news detection system using various machine learning models such as Logistic Regression, Decision Tree Classification, Gradient Boosting Classifier, Random Forest Classifier.
+### **AI-Driven Fake News Detection System:**
+Developing a comprehensive Fake News Detection System employing a diverse array of machine learning models to combat misinformation. This project integrates several advanced classification algorithms, including Logistic Regression, Decision Tree Classification, Gradient Boosting Classifier, and Random Forest Classifier, to create a robust and reliable detection framework. By leveraging these diverse models, the system is designed to analyze textual data and identify misleading or false information with high accuracy. The approach incorporates feature engineering, model ensemble techniques, and rigorous evaluation metrics to ensure effective and scalable detection of fake news, contributing to a more informed and trustworthy information ecosystem..
 
 ### **Gen AI Project: Generative Search System (Mr.HelpMate AI):**
-Building fake news detection system using various machine learning models such as Logistic Regression, Decision Tree Classification, Gradient Boosting Classifier, Random Forest Classifier.
+Architecting a sophisticated Generative Search System named Mr.HelpMate AI, utilizing advanced Retrieval-Augmented Generation (RAG) techniques and state-of-the-art Hugging Face models. This project integrates cutting-edge frameworks such as LangChain and LlamaIndex to enhance the search experience through dynamic and contextually relevant responses. By combining powerful generative models with retrieval mechanisms, Mr.HelpMate AI aims to provide highly accurate and context-aware search results, enabling users to efficiently find and interact with information across diverse domains. This system leverages the latest advancements in AI to deliver intelligent and responsive search capabilities, transforming how users engage with digital content.
+
+### **AI-Driven Intelligent Symptom Checker:**
+Developed an AI-driven system designed to analyze user-reported symptoms and provide potential diagnoses in real-time. Utilizing advanced NLP and ML models, the system identifies and classifies symptoms to suggest possible medical conditions, as well as recommend potential treatment options. This empowers users with reliable health information while also assisting doctors and researchers in identifying patterns, enhancing early symptom evaluation, and improving healthcare accessibility. The tool supports healthcare professionals by streamlining diagnosis and treatment decisions, ultimately contributing to more efficient patient care.
+
+### **AI-Driven Heart Failure Prediction System::**
+Developed a machine learning model to predict heart failure based on key clinical parameters, including anaemia, creatinine phosphokinase levels, diabetes, ejection fraction, blood pressure, platelets, serum creatinine, and serum sodium. This AI-driven system analyzes these indicators to predict heart failure risk, aiding in early diagnosis and improving treatment outcomes. Designed to assist doctors, researchers, and healthcare professionals in making more informed decisions, it is a cutting-edge solution at the intersection of AI and healthcare.
 
 ## <span class="animated-text">**Certificates:**</span>
 - Certificate for Registered Engineers, Nepal Engineering Council
