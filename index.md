@@ -53,11 +53,11 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
   
    - Python Programming  • Mathematics for AI/ML  • Statistics and Exploratory Data Analytics  • Data Analysis using SQL and Excel  • Data Visualisation  • Machine Learning  • Deep Learning  • Natural Language Processing (NLP)  • Reinforcement Learning  • Computer Vision  • Generative AI  • LLM  • Capstone  
  
-- **Master’s Degree in Machine Learning & Artificial Intelligence** - ***United Kingdom (UK)***
+- **Master’s Degree in Machine Learning & Artificial Intelligence** - ***UK***
   
    - Statistics and EDA  • Machine Learning  • Deep Learning  • Natural Language Processing (NLP)  • Reinforcement Learning  • Computer Vision  • Generative AI  • LLM  • Master Thesis  
 
-- **Master’s Degree in Engineering** - ***United States of America (USA)***
+- **Master’s Degree in Engineering** - ***USA***
   
    - Mathematical + Computational Modeling  • Python Programming  • Derivative Pricing  • Deep Learning  • Data Visualization and Analysis  • Stochastic Modeling • Portfolio Management  • Financial Econometrics  • Machine Learning  • Risk Management  • Financial Econometrics  • Master Thesis  
 
