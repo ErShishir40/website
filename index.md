@@ -45,7 +45,7 @@ title: Shishir Khanal
 Qualified engineer with a distinct knowledge of engineering, having a strong passion for design, programming and AI. Over 6 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in MS office, SolidWorks, AutoCAD(3D&2D), ML/AI, deep learning, NLP, Generative AI, LLM, and programming languages such as Python.
 
 ## <span class="animated-text">**Education:**</span>
-- ** Bachelor’s Degree in Mechanical Engineering** - **Nepal**
+- **Bachelor’s Degree in Mechanical Engineering** - **Nepal**
   
    - Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • CAD • Engineering Drawing • Project Engineering and Management • Engineering Economics • Engineering Professional Ethics • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Engineering Physics • Engineering Chemistry • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Work
       
