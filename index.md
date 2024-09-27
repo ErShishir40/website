@@ -44,18 +44,18 @@ title: Shishir Khanal
 ## <span class="animated-text">**Summary:**</span>
 
 Qualified engineer with a distinct knowledge of engineering, having a strong passion for design, programming and AI. Over 6 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in MS office, SolidWorks, AutoCAD(3D&2D), ML/AI, deep learning, NLP, Generative AI, and programming languages such as Python.
-***
+
 ## <span class="animated-text">**Education:**</span>
 - Bachelor’s Degree in Mechanical Engineering</br>
 - Executive Post Graduate in Machine Learning & Artificial Intelligence</br>
 - Master of Science (MSc) in Machine Learning & Artificial Intelligence
-***
+
 ## <span class="animated-text">**Work Experience:**</span>
 
 - System Development and Design Engineer at Tokyo, Japan-(09/2020 to present)</br>
 - Mechanical Engineer at Tata Motors-(01/2018 to 08/2019)</br>
 - Internship Engineer at Pepsi-2017
-***
+  
 ## <span class="animated-text">**Skills:**</span>
 - Familiar with machine learning algorithms and techniques, including regression, classification, clustering, neural networks, deep learning</br>
 - Familiar with NLP,  generative AI, LLM, OpenAI, ChatGPT API, BERT, Gemini Hugging Face, Transformers, LlamaIndex, LangChain</br>
@@ -67,40 +67,40 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 - Technical report writing and time management skills</br>
 - Fast learner and independent with strong leadership and critical thinking skills</br>
 - Excellent problem-solving and analytical abilities</br>
-***
+  
 ## <span class="animated-text">**Languages skills:**</span>
 - English: Working proficiency plus (TOEIC)
 - Japanese: Intermediate Level Proficiency (JLPT)
-***
+  
 ## <span class="animated-text">**ML/AI Projects:**</span>
-***
+
 ### **Bike Sharing Project:**
 Building a multiple linear regression model to predict the demand for shared bikes. The project is based on a dataset provided by BoomBikes, a US bike-sharing provider, which aims to understand the factors affecting the demand for shared bikes in the American market.
-***
+
 ### **House Price Prediction:** 
 Predicting house prices using advanced regression techniques such as Ridge and Lasso.
-***
+
 ### **Telecom Churn Prediction:**
 Building the best prediction machine learning model using the provided data that is able to predict churning customers. And identify the important predictor variables for churn by building different models like logistic regression, decision trees or random Forest and choose the best performing model based on evaluation Metrics and business objectives.
-***
+
 ### **Melanoma-Detection Project:**
 Building a multiclass classification model using a custom convolutional neural network in TensorFlow, that can assist dermatologists to detect melanoma accurately and efficiently.
-***
+
 ### **Gesture Reorganization Project:**
 Building a gesture recognition feature in the smart-TV using deep learning techniques that can recognize five different gestures performed by the user which will help users control the TV without using a remote.
-***
+
 ### **Custom Entity Detection In Healthcare Data (NLP):**
 Building a custom NER to get the list of diseases and their treatment from a medical healthcare dataset.
-***
+
 ### **Automatic Classification Of Customer Complaints:**
 Creating a solution that will help in identifying the type of complaint ticket raised by the customers.
-***
+
 ### **Fake News Detection System:**
 Building fake news detection system using various machine learning models such as Logistic Regression, Decision Tree Classification, Gradient Boosting Classifier, Random Forest Classifier.
-***
+
 ### **Gen AI Project: Generative Search System (Mr.HelpMate AI):**
 Building fake news detection system using various machine learning models such as Logistic Regression, Decision Tree Classification, Gradient Boosting Classifier, Random Forest Classifier.
-***
+
 ## <span class="animated-text">**Certificates:**</span>
 - Certificate for Registered Engineers, Nepal Engineering Council</br>
 - Crash Course on Python, Google </br>
@@ -110,12 +110,12 @@ Building fake news detection system using various machine learning models such a
 - The Smithsonian Entrepreneur Incubator Course, US Embassy</br>
 - Mechanical Design, Solidworks </br>
 - Engineering and Product Design Processes, Arizona State University </br>
-***
+
 ## <span class="animated-text">**Mechanical Projects:**</span>
-***
+
 ### **Design and Development of Magnetic Bicycle:**
 The conversion of magnetic power into mechanical energy is the prime subject of study for the researcher. The project on magnetic powered hybrid bicycle is focused on the investigation of the feasibility of the mechanical energy from the magnet which use its natural properties of attraction and repulsion of the magnet poles to create rotation of the shaft which can be harnessed to do a useful work.
-* * *
+
 ### **Design:**
 The strong Neodymium magnets (NdFeB40MGOe) arranged in proper inclination in flywheel and cover design and assembled in bicycle sprocket shaft produce magnetic force to assist the human effort. This investigation project was proposed by performing paper research, experiments, hardware prototype development and software simulation.
 
@@ -128,14 +128,14 @@ The flywheel design was performed in Solidworks, magnetic simulation was perform
 
 ![Pic2](https://github.com/Erkhanal/portfolio/assets/148779208/ed110061-b34e-48ff-972e-c1f4a392f2b3)
 
-* * *
+
 
 ### **Conclusion:**
 The performance of the bicycle was found to be increased significantly after implementation of the magnetic flywheel. Thus, the detail study on this project has led to the need of more research and can be developed as one of means of green energy.
 
 ![Picture13](https://github.com/Erkhanal/portfolio/assets/148779208/58ab3f93-1090-425c-8d3a-d8df8617d31c)
 
-* * *
+
 ## <span class="animated-text">**Contact:**</span>
 If you have any questions or want to collaborate, please don't hesitate to reach out. You can aslo connect with me through LinkedIn.
 
@@ -155,7 +155,7 @@ If you have any questions or want to collaborate, please don't hesitate to reach
   </form>
 </div>
 
-***
+
 
 ### <span class="centered-blue animated-text">--Thank you for visiting--</span>
 
