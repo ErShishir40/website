@@ -46,27 +46,27 @@ title: Shishir Khanal
 Qualified engineer with a distinct knowledge of engineering, having a strong passion for design, programming and AI. Over 6 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in MS office, SolidWorks, AutoCAD(3D&2D), ML/AI, deep learning, NLP, Generative AI, and programming languages such as Python.
 
 ## <span class="animated-text">**Education:**</span>
-- Bachelor’s Degree in Mechanical Engineering</br>
-- Executive Post Graduate in Machine Learning & Artificial Intelligence</br>
+- Bachelor’s Degree in Mechanical Engineering
+- Executive Post Graduate in Machine Learning & Artificial Intelligence
 - Master of Science (MSc) in Machine Learning & Artificial Intelligence
 
 ## <span class="animated-text">**Work Experience:**</span>
 
-- System Development and Design Engineer at Tokyo, Japan-(09/2020 to present)</br>
-- Mechanical Engineer at Tata Motors-(01/2018 to 08/2019)</br>
+- System Development and Design Engineer at Tokyo, Japan-(09/2020 to present)
+- Mechanical Engineer at Tata Motors-(01/2018 to 08/2019)
 - Internship Engineer at Pepsi-2017
   
 ## <span class="animated-text">**Skills:**</span>
-- Familiar with machine learning algorithms and techniques, including regression, classification, clustering, neural networks, deep learning</br>
-- Familiar with NLP,  generative AI, LLM, OpenAI, ChatGPT API, BERT, Gemini Hugging Face, Transformers, LlamaIndex, LangChain</br>
-- Programming skills in Python, with experience using libraries such as Numpy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV and spaCy</br>
-- Knowledge in data prepossessing, feature engineering, and model evaluation</br>
-- Knowledge in data science, statistics, predictive modelling, Kaggle, Git and GitHub, HTML, CSS, JavaScript</br>
-- Microsoft word, Excel, and PowerPoint, SQL proficiency</br>
-- SolidWorks and AutoCAD(2D&3D) software proficiency</br>
-- Technical report writing and time management skills</br>
-- Fast learner and independent with strong leadership and critical thinking skills</br>
-- Excellent problem-solving and analytical abilities</br>
+- Familiar with machine learning algorithms and techniques, including regression, classification, clustering, neural networks, deep learning
+- Familiar with NLP,  generative AI, LLM, OpenAI, ChatGPT API, BERT, Gemini Hugging Face, Transformers, LlamaIndex, LangChain
+- Programming skills in Python, with experience using libraries such as Numpy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV and spaCy
+- Knowledge in data prepossessing, feature engineering, and model evaluation
+- Knowledge in data science, statistics, predictive modelling, Kaggle, Git and GitHub, HTML, CSS, JavaScript
+- Microsoft word, Excel, and PowerPoint, SQL proficiency
+- SolidWorks and AutoCAD(2D&3D) software proficiency
+- Technical report writing and time management skills
+- Fast learner and independent with strong leadership and critical thinking skills
+- Excellent problem-solving and analytical abilities
   
 ## <span class="animated-text">**Languages skills:**</span>
 - English: Working proficiency plus (TOEIC)
@@ -102,14 +102,14 @@ Building fake news detection system using various machine learning models such a
 Building fake news detection system using various machine learning models such as Logistic Regression, Decision Tree Classification, Gradient Boosting Classifier, Random Forest Classifier.
 
 ## <span class="animated-text">**Certificates:**</span>
-- Certificate for Registered Engineers, Nepal Engineering Council</br>
-- Crash Course on Python, Google </br>
-- Linear Algebra for Machine Learning and Data Science, DeepLearning.AI </br>
-- Introduction to Artificial Intelligence (AI), IBM</br>
-- Programming for Everybody (Getting Started with Python), University of Michigan </br>
-- The Smithsonian Entrepreneur Incubator Course, US Embassy</br>
-- Mechanical Design, Solidworks </br>
-- Engineering and Product Design Processes, Arizona State University </br>
+- Certificate for Registered Engineers, Nepal Engineering Council
+- Crash Course on Python, Google 
+- Linear Algebra for Machine Learning and Data Science, DeepLearning.AI 
+- Introduction to Artificial Intelligence (AI), IBM
+- Programming for Everybody (Getting Started with Python), University of Michigan 
+- The Smithsonian Entrepreneur Incubator Course, US Embassy
+- Mechanical Design, Solidworks 
+- Engineering and Product Design Processes, Arizona State University 
 
 ## <span class="animated-text">**Mechanical Projects:**</span>
 
