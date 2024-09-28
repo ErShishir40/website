@@ -45,6 +45,10 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 ***
 ## <span class="animated-text" style="color: #ff4500;">**Education:**</span>
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/G1.JPG" alt="Image 1" style="width: 250px; height: 250px; object-fit: cover;">
+    <img src="assets/img/G2.JPG" alt="Image 2" style="width: 250px; height: 250px; object-fit: cover;">
+</div>
 - **Master’s Degree in Engineering, USA**
     - Mathematical and Computational Modeling  • Python Programming  • Derivative Pricing  • Deep Learning  • Data Visualization and Analysis  • Stochastic Modeling • Portfolio Management  • Financial Econometrics  • Machine Learning  • Risk Management  • Financial Econometrics  • Master Thesis
       
