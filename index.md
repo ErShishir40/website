@@ -42,7 +42,9 @@ title: Shishir Khanal
 
 ## <span class="animated-text">**Summary:**</span>
 Qualified engineer with a distinct knowledge of engineering, having a strong passion for design, programming and AI. Over 6 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in MS office, SolidWorks, AutoCAD(3D&2D), ML/AI, deep learning, NLP, Generative AI, LLM, and programming languages such as Python.
+
 ***
+
 ## <span class="animated-text" style="color: #ff4500;">**Education:**</span>
 - **Master’s Degree in Engineering, USA**
     - Mathematical and Computational Modeling  • Python Programming  • Derivative Pricing  • Deep Learning  • Data Visualization and Analysis  • Stochastic Modeling • Portfolio Management  • Financial Econometrics  • Machine Learning  • Risk Management  • Financial Econometrics  • Master Thesis
@@ -58,21 +60,26 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 - **Bachelor’s Degree in Mechanical Engineering, Nepal**
   
    - Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • CAD • Engineering Drawing • Project Engineering and Management • Engineering Economics • Engineering Professional Ethics • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Engineering Physics • Engineering Chemistry • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Work    
+
 ***
+
 ## <span class="animated-text">**Work Experience:**</span>
 
 - System Development and Design Engineer at Tokyo, Japan-(2020 to present)
 - Mechanical Engineer at Tata Motors-(2018 to 2019)
 - Internship Engineer at Pepsi-2017
   
+***  
+
 ## <span class="animated-text">**AI-Related Skills:**</span>
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/AI.JPG" alt="Image 1" style="width: 200px; height: 200px; object-fit: cover;">
     <img src="assets/img/DS.JPG" alt="Image 2" style="width: 200px; height: 200px; object-fit: cover;">
 </div>
 
+***
+
 - **Machine Learning & Deep Learning:**
-  
     - Machine learning algorithms and techniques, including Regression (Linear, Logistic, Polynomial), Classification (Decision Trees, Random Forest, Support Vector Machines, Naive Bayes, K-Nearest Neighbors), Clustering (K-Means, Hierarchical Clustering, DBSCAN), Neural Networks (Feedforward, Convolutional Neural Networks, Recurrent Neural Networks, Long Short-Term Memory), Deep Learning (Deep Belief Networks, Autoencoders, Generative Adversarial Networks)
     - Reinforcement learning and mathematical modeling
     - Ensemble methods (Boosting, Bagging, AdaBoost, Gradient Boosting)
@@ -81,14 +88,12 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
     - Hyperparameter tuning and optimization techniques
 
 - **Natural Language Processing (NLP) & Generative AI:**
-  
     - NLP techniques and Libraries, generative AI, and large language models (LLMs)
     - Text Preprocessing and Data Cleaning, Sentiment Analysis and Text Classification, Named Entity Recognition (NER), Conversational AI,Fine-tuning and Transfer Learning, Data Annotation and Management, Evaluation Metrics,Ethics in AI
     - OpenAI APIs, ChatGPT, BERT, Gemini, and Hugging Face Transformers
     - LangChain and LlamaIndex for enhancing NLP applications
 
 - **Programming & Libraries:**
-  
     - Data manipulation: Numpy, Pandas
     - Data visualization: Matplotlib, Seaborn, Plotly, Bokeh
     - Machine learning frameworks: Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM
@@ -96,16 +101,16 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
     - NLP: spaCy, NLTK, Hugging Face Transformers
 
 - **Data Handling & Analysis:**
-  
     - Exploratory data analysis (EDA), Data preprocessing, feature engineering, and data visualization and analysis
     - SQL for data querying and management
     - Kaggle for data science competitions and projects
 
 - **Software Development & Collaboration:**
-  
     - Version control using Git and GitHub
     - Web technologies: HTML, CSS, JavaScript
     - Microsoft Word, Excel, and PowerPoint for documentation and presentations
+
+***
 
 ## <span class="animated-text">**Mechanical-Related Skills:**</span>
 <div style="display: flex; justify-content: space-between;">
@@ -114,15 +119,15 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
     <img src="assets/img/MS3.jpeg" alt="Image 2" style="width: 200px; height: 200px; object-fit: cover;">
 </div>
 
+***
+
 - **Design & Simulation Tools:**
-  
     - Proficiency in SolidWorks, CATIA, ANSYS, and AutoCAD (2D & 3D)
     - Finite Element Analysis (FEA) and Computational Fluid Dynamics (CFD)
     - Mechanical Design & Development, Tooling and Fixture Design
     - Automotive Simulation and Engine Performance Optimization
 
 - **Automotive Engineering & Vehicle Technologies:**
-  
     - Automotive Design, Powertrain Engineering, Internal Combustion Engines
     - Electric Vehicle (EV) Technologies, Drivetrain and Transmission Systems
     - NVH (Noise, Vibration, and Harshness) Analysis, Vehicle Dynamics
@@ -130,25 +135,24 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
     - Automotive Standards Compliance, Durability Testing, Crash Testing
 
 - **Manufacturing & Production Expertise:**
-  
     - Lean Manufacturing, Six Sigma, Automation & Robotics
     - Welding, Casting, and Machining Processes
     - Supply Chain and Vendor Management, Quality Control
     - Manufacturing Engineering, Process Optimization
 
 - **Thermal & Fluid Systems:**
-  
     - Thermodynamics, Heat Transfer, and Refrigeration
     - Pneumatic and Hydraulic Systems Design
     - Fluid Mechanics, Mechanical Testing & Analysis
     - HVAC (Heating, Ventilation, and Air Conditioning) Systems
 
 - **Additional Engineering Skills:**
-  
     - Material Selection and Failure Analysis
     - Metrology, Instrumentation, and Measurement Techniques
     - Product Lifecycle Management (PLM)
     - Manufacturing Process Improvement, Risk Analysis & Mitigation
+
+***
 
 ## <span class="animated-text">**Soft Skills:**</span>
 <div style="display: flex; justify-content: space-between;">
@@ -156,48 +160,44 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
     <img src="assets/img/SS2.JPG" alt="Image 2" style="width: 200px; height: 200px; object-fit: cover;">
 </div>
 
+***
+
 - **Communication Skills:**
-  
     - Clear and effective verbal and written communication
     - Active Listening: Fully understanding and responding to what others communicate
     - Interpersonal Skills: Building and maintaining positive relationships
 
 - **Collaboration & Teamwork:**
-  
     - Ability to collaborate and work well within a team
     - Leadership: Ability to lead, motivate, and guide teams
     - Conflict Resolution: Skill in managing and resolving conflicts calmly
 
 - **Problem Solving & Critical Thinking:**
-  
     - Analytical thinking and finding creative solutions
     - Critical Thinking: Ability to analyze situations and make informed decisions
     - Creativity: Ability to think outside the box and innovate
 
 - **Adaptability & Flexibility:**
-  
     - Flexibility to manage change and handle multiple tasks
     - Openness to new ideas and working outside of comfort zones
 
 - **Time Management & Work Ethic:**
-  
     - Efficient prioritization and handling of tasks
     - Dedication, responsibility, and reliability in completing tasks
     - Self-motivation: Working independently with little supervision
 
 - **Emotional Intelligence & Empathy:**
-  
     - Awareness and management of emotions in self and others
     - Understanding and addressing the needs and concerns of others
 
 - **Stress Management & Decision Making:**
-  
     - Maintaining performance under pressure
     - Evaluating options and making sound choices
 
 - **Negotiation:**
-  
     - Ability to reach mutually beneficial agreements
+
+***
   
 ## <span class="animated-text">**Languages skills:**</span>
 
@@ -206,6 +206,8 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 - Hindi: Intermediate Level Proficiency
 - Nepali: Native or bilingual proficiency
   
+***  
+
 ## <span class="animated-text">**ML/AI Projects:**</span>
 
 ### **AI-Driven Gesture Reorganization System:**
