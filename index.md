@@ -68,7 +68,16 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 - Mechanical Engineer at Tata Motors-(2018 to 2019)
 - Internship Engineer at Pepsi-2017
   
-## <span class="animated-text">**Skills:**</span>
+## <span class="animated-text">**AI-Related Skills:**</span>
+- Familiar with machine learning algorithms and techniques, including regression, classification, clustering, neural networks, deep learning
+- Familiar with NLP,  generative AI, LLM, OpenAI, ChatGPT API, BERT, Gemini Hugging Face, Transformers, LlamaIndex, LangChain
+- Programming skills in Python, with experience using libraries such as Numpy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV and spaCy, NLTK
+- Knowledge in data prepossessing, Data Visualization and Analysis, feature engineering, and model evaluation
+- Familiar with Mathematical + Computational Modeling, Reinforcement Learning, Computer Vision
+- Knowledge in data science, statistics, predictive modelling, Kaggle, Git and GitHub, HTML, CSS, JavaScript
+- Microsoft word, Excel, and PowerPoint, SQL proficiency
+  
+## <span class="animated-text">**AI-Related Skills:**</span>
 - Familiar with machine learning algorithms and techniques, including regression, classification, clustering, neural networks, deep learning
 - Familiar with NLP,  generative AI, LLM, OpenAI, ChatGPT API, BERT, Gemini Hugging Face, Transformers, LlamaIndex, LangChain
 - Programming skills in Python, with experience using libraries such as Numpy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV and spaCy
