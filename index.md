@@ -46,7 +46,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 ## <span class="animated-text" style="color: #ff4500;">**Education:**</span>
 - **Master’s Degree in Engineering, USA**
     - Mathematical and Computational Modeling  • Python Programming  • Derivative Pricing  • Deep Learning  • Data Visualization and Analysis  • Stochastic Modeling • Portfolio Management  • Financial Econometrics  • Machine Learning  • Risk Management  • Financial Econometrics  • Master Thesis
-***      
+      
 - **Master’s Degree in Machine Learning & Artificial Intelligence, UK**
   
    - Statistics and EDA  • Machine Learning  • Deep Learning  • Natural Language Processing (NLP)  • Reinforcement Learning  • Computer Vision  • Generative AI  • LLM  • Master Thesis
@@ -58,7 +58,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 - **Bachelor’s Degree in Mechanical Engineering, Nepal**
   
    - Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • CAD • Engineering Drawing • Project Engineering and Management • Engineering Economics • Engineering Professional Ethics • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Engineering Physics • Engineering Chemistry • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Work    
-
+***
 ## <span class="animated-text">**Work Experience:**</span>
 
 - System Development and Design Engineer at Tokyo, Japan-(2020 to present)
@@ -67,8 +67,8 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
   
 ## <span class="animated-text">**AI-Related Skills:**</span>
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/AI.JPG" alt="Image 1" style="width: 400px; height: 400px; object-fit: cover;">
-    <img src="assets/img/DS.JPG" alt="Image 2" style="width: 400px; height: 400px; object-fit: cover;">
+    <img src="assets/img/AI.JPG" alt="Image 1" style="width: 200px; height: 200px; object-fit: cover;">
+    <img src="assets/img/DS.JPG" alt="Image 2" style="width: 200px; height: 200px; object-fit: cover;">
 </div>
 
 - **Machine Learning & Deep Learning:**
@@ -109,9 +109,9 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 ## <span class="animated-text">**Mechanical-Related Skills:**</span>
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/MS.JPG" alt="Image 1" style="width: 400px; height: 400px; object-fit: cover;">
-    <img src="assets/img/MS2.JPG" alt="Image 2" style="width: 400px; height: 400px; object-fit: cover;">
-    <img src="assets/img/MS3.jpeg" alt="Image 2" style="width: 400px; height: 400px; object-fit: cover;">
+    <img src="assets/img/MS.JPG" alt="Image 1" style="width: 200px; height: 200px; object-fit: cover;">
+    <img src="assets/img/MS2.JPG" alt="Image 2" style="width: 200px; height: 200px; object-fit: cover;">
+    <img src="assets/img/MS3.jpeg" alt="Image 2" style="width: 200px; height: 200px; object-fit: cover;">
 </div>
 
 - **Design & Simulation Tools:**
@@ -152,8 +152,8 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 ## <span class="animated-text">**Soft Skills:**</span>
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/SS1.JPG" alt="Image 1" style="width: 400px; height: 400px; object-fit: cover;">
-    <img src="assets/img/SS2.JPG" alt="Image 2" style="width: 400px; height: 400px; object-fit: cover;">
+    <img src="assets/img/SS1.JPG" alt="Image 1" style="width: 200px; height: 200px; object-fit: cover;">
+    <img src="assets/img/SS2.JPG" alt="Image 2" style="width: 200px; height: 200px; object-fit: cover;">
 </div>
 
 - **Communication Skills:**
