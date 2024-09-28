@@ -38,12 +38,27 @@ title: Shishir Khanal
     text-align: center;
     color: blue;
   }
+
+  /* New styles for colored blocks */
+  .colored-block {
+    background-color: #f0f8ff; /* Light cyan background */
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px 0;
+  }
+
+  .colored-block-alt {
+    background-color: #e6f7ff; /* Light blue background */
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px 0;
+  }
 </style>
 
 ## <span class="animated-text">**Summary:**</span>
 
 Qualified engineer with a distinct knowledge of engineering, having a strong passion for design, programming and AI. Over 6 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in MS office, SolidWorks, AutoCAD(3D&2D), ML/AI, deep learning, NLP, Generative AI, LLM, and programming languages such as Python.
-
+<div class="colored-block">
 ## <span class="animated-text">**Education:**</span>
 
 - **Master’s Degree in Engineering, USA**
@@ -61,7 +76,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 - **Bachelor’s Degree in Mechanical Engineering, Nepal**
   
    - Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • CAD • Engineering Drawing • Project Engineering and Management • Engineering Economics • Engineering Professional Ethics • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Engineering Physics • Engineering Chemistry • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Work    
-
+</div>
 ## <span class="animated-text">**Work Experience:**</span>
 
 - System Development and Design Engineer at Tokyo, Japan-(2020 to present)
