@@ -72,8 +72,8 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 ## <span class="animated-text">**AI-Related Skills:**</span>
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/AI.JPG" alt="Image 1" style="width: 300px; height: 300px; object-fit: cover;">
-    <img src="assets/img/DS.JPG" alt="Image 2" style="width: 300px; height: 300px; object-fit: cover;">
+    <img src="assets/img/AI.JPG" alt="Image 1" style="width: 250px; height: 250px; object-fit: cover;">
+    <img src="assets/img/DS.JPG" alt="Image 2" style="width: 250px; height: 250px; object-fit: cover;">
 </div>
 
 ***
@@ -113,7 +113,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 ## <span class="animated-text">**Mechanical-Related Skills:**</span>
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/MS2.JPG" alt="Image 2" style="width: 600px; height: 600px; object-fit: cover;">
+    <img src="assets/img/MS2.JPG" alt="Image 2" style="width: 500px; height: 500px; object-fit: cover;">
 </div>
 
 ***
@@ -150,15 +150,15 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
     - Manufacturing Process Improvement, Risk Analysis & Mitigation
       
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/MS.JPG" alt="Image 1" style="width: 300px; height: 300px; object-fit: cover;">
-    <img src="assets/img/MS3.JPG" alt="Image 2" style="width: 300px; height: 300px; object-fit: cover;">
+    <img src="assets/img/MS.JPG" alt="Image 1" style="width: 250px; height: 250px; object-fit: cover;">
+    <img src="assets/img/MS3.JPG" alt="Image 2" style="width: 250px; height: 250px; object-fit: cover;">
 </div>
 ***
 
 ## <span class="animated-text">**Soft Skills:**</span>
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/SS1.JPG" alt="Image 1" style="width: 200px; height: 200px; object-fit: cover;">
-    <img src="assets/img/SS2.JPG" alt="Image 2" style="width: 200px; height: 200px; object-fit: cover;">
+    <img src="assets/img/SS1.JPG" alt="Image 1" style="width: 250px; height: 250px; object-fit: cover;">
+    <img src="assets/img/SS2.JPG" alt="Image 2" style="width: 250px; height: 250px; object-fit: cover;">
 </div>
 
 ***
