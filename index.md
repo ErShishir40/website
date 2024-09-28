@@ -38,21 +38,6 @@ title: Shishir Khanal
     text-align: center;
     color: blue;
   }
-
-  /* New styles for colored blocks */
-  .colored-block {
-    background-color: #f0f8ff; /* Light cyan background */
-    border-radius: 5px;
-    padding: 15px;
-    margin: 10px 0;
-  }
-
-  .colored-block-alt {
-    background-color: #e6f7ff; /* Light blue background */
-    border-radius: 5px;
-    padding: 15px;
-    margin: 10px 0;
-  }
 </style>
 
 ## <span class="animated-text">**Summary:**</span>
