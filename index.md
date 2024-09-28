@@ -63,8 +63,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 - **Master’s Degree in Engineering, USA**
   
-    - <span style="color: #333;">Mathematical + Computational Modeling  • Python Programming  • Derivative Pricing  • Deep Learning  • Data Visualization and Analysis  • Stochastic Modeling • Portfolio Management  • Financial Econometrics  • Machine Learning  • Risk Management  • Financial Econometrics  • Master Thesis
-</span>
+    - Mathematical + Computational Modeling  • Python Programming  • Derivative Pricing  • Deep Learning  • Data Visualization and Analysis  • Stochastic Modeling • Portfolio Management  • Financial Econometrics  • Machine Learning  • Risk Management  • Financial Econometrics  • Master Thesis
 - **Master’s Degree in Machine Learning & Artificial Intelligence, UK**
   
    - Statistics and EDA  • Machine Learning  • Deep Learning  • Natural Language Processing (NLP)  • Reinforcement Learning  • Computer Vision  • Generative AI  • LLM  • Master Thesis
