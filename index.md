@@ -76,18 +76,15 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 - Familiar with Mathematical + Computational Modeling, Reinforcement Learning, Computer Vision
 - Knowledge in data science, statistics, predictive modelling, Kaggle, Git and GitHub, HTML, CSS, JavaScript
 - Microsoft word, Excel, and PowerPoint, SQL proficiency
-  
-## <span class="animated-text">**AI-Related Skills:**</span>
-- Familiar with machine learning algorithms and techniques, including regression, classification, clustering, neural networks, deep learning
-- Familiar with NLP,  generative AI, LLM, OpenAI, ChatGPT API, BERT, Gemini Hugging Face, Transformers, LlamaIndex, LangChain
-- Programming skills in Python, with experience using libraries such as Numpy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV and spaCy
-- Knowledge in data prepossessing, feature engineering, and model evaluation
-- Knowledge in data science, statistics, predictive modelling, Kaggle, Git and GitHub, HTML, CSS, JavaScript
-- Microsoft word, Excel, and PowerPoint, SQL proficiency
-- SolidWorks and AutoCAD(2D&3D) software proficiency
-- Technical report writing and time management skills
-- Fast learner and independent with strong leadership and critical thinking skills
-- Excellent problem-solving and analytical abilities
+
+## <span class="animated-text">**Mechanical-Related Skills:**</span>
+- Mechanical Design & Development
+- SolidWorks, CATIA, ANSYS and AutoCAD(2D&3D) software proficiency
+- Automotive Design, Powertrain Engineering, Internal Combustion Engines, Vehicle Dynamics, Engine Performance Optimization, Drivetrain and Transmission, NVH (Noise, Vibration, and Harshness) Analysis, Electric Vehicle (EV) Technologies
+- Manufacturing & Production Skills, Lean Manufacturing, Six Sigma, Automation & Robotics, Tooling and Fixture Design, Quality Control, Welding, Casting, and Machining, Supply Chain and Vendor Management
+- Vehicle Testing & Validation, Prototyping and Testing, Automotive Standards Compliance, Durability Testing, Crash Testing 
+- Thermodynamics and Heat Transfer, Material Selection, Pneumatic and Hydraulic Systems Design, Mechanical Testing and Analysis, Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD), Automotive Simulation
+- Manufacturing Engineering, Refrigeration and Air Conditioning, Fluid Mechanics, Metrology, Instrumentation and Measurement
   
 ## <span class="animated-text">**Languages skills:**</span>
 - English: Working proficiency plus (TOEIC)
