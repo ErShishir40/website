@@ -41,15 +41,12 @@ title: Shishir Khanal
 </style>
 
 ## <span class="animated-text">**Summary:**</span>
-
 Qualified engineer with a distinct knowledge of engineering, having a strong passion for design, programming and AI. Over 6 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in MS office, SolidWorks, AutoCAD(3D&2D), ML/AI, deep learning, NLP, Generative AI, LLM, and programming languages such as Python.
-
+***
 ## <span class="animated-text" style="color: #ff4500;">**Education:**</span>
-
 - **Master’s Degree in Engineering, USA**
-  
     - Mathematical and Computational Modeling  • Python Programming  • Derivative Pricing  • Deep Learning  • Data Visualization and Analysis  • Stochastic Modeling • Portfolio Management  • Financial Econometrics  • Machine Learning  • Risk Management  • Financial Econometrics  • Master Thesis
-      
+***      
 - **Master’s Degree in Machine Learning & Artificial Intelligence, UK**
   
    - Statistics and EDA  • Machine Learning  • Deep Learning  • Natural Language Processing (NLP)  • Reinforcement Learning  • Computer Vision  • Generative AI  • LLM  • Master Thesis
@@ -69,7 +66,11 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 - Internship Engineer at Pepsi-2017
   
 ## <span class="animated-text">**AI-Related Skills:**</span>
-![My Image](assets/images/AI.jpg)
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/AI.JPG" alt="Image 1" style="width: 400px; height: 400px; object-fit: cover;">
+    <img src="assets/img/DS.JPG" alt="Image 2" style="width: 400px; height: 400px; object-fit: cover;">
+</div>
+
 - **Machine Learning & Deep Learning:**
   
     - Machine learning algorithms and techniques, including Regression (Linear, Logistic, Polynomial), Classification (Decision Trees, Random Forest, Support Vector Machines, Naive Bayes, K-Nearest Neighbors), Clustering (K-Means, Hierarchical Clustering, DBSCAN), Neural Networks (Feedforward, Convolutional Neural Networks, Recurrent Neural Networks, Long Short-Term Memory), Deep Learning (Deep Belief Networks, Autoencoders, Generative Adversarial Networks)
@@ -107,6 +108,11 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
     - Microsoft Word, Excel, and PowerPoint for documentation and presentations
 
 ## <span class="animated-text">**Mechanical-Related Skills:**</span>
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/MS.JPG" alt="Image 1" style="width: 400px; height: 400px; object-fit: cover;">
+    <img src="assets/img/MS2.JPG" alt="Image 2" style="width: 400px; height: 400px; object-fit: cover;">
+    <img src="assets/img/MS3.jpeg" alt="Image 2" style="width: 400px; height: 400px; object-fit: cover;">
+</div>
 
 - **Design & Simulation Tools:**
   
@@ -145,6 +151,10 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
     - Manufacturing Process Improvement, Risk Analysis & Mitigation
 
 ## <span class="animated-text">**Soft Skills:**</span>
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/SS1.JPG" alt="Image 1" style="width: 400px; height: 400px; object-fit: cover;">
+    <img src="assets/img/SS2.JPG" alt="Image 2" style="width: 400px; height: 400px; object-fit: cover;">
+</div>
 
 - **Communication Skills:**
   
