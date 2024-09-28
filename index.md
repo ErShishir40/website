@@ -209,7 +209,7 @@ Developed an AI-driven system designed to analyze user-reported symptoms and pro
 ### **AI-Driven Heart Failure Prediction System:**
 Developed a machine learning model to predict heart failure based on key clinical parameters, including anaemia, creatinine phosphokinase levels, diabetes, ejection fraction, blood pressure, platelets, serum creatinine, and serum sodium. This AI-driven system analyzes these indicators to predict heart failure risk, aiding in early diagnosis and improving treatment outcomes. Designed to assist doctors, researchers, and healthcare professionals in making more informed decisions, it is a cutting-edge solution at the intersection of AI and healthcare.
 
-## <span class="animated-text">**Mechanical Projects:**</span>
+## <span class="animated-text">**Mechanical Research Projects:**</span>
 
 ### **Design and Development of Magnetic Bicycle:**
 The conversion of magnetic power into mechanical energy is the prime subject of study for the researcher. The project on magnetic powered hybrid bicycle is focused on the investigation of the feasibility of the mechanical energy from the magnet which use its natural properties of attraction and repulsion of the magnet poles to create rotation of the shaft which can be harnessed to do a useful work.
