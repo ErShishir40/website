@@ -83,7 +83,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 ## <span class="animated-text">**Languages skills:**</span>
 - English: Working proficiency plus (TOEIC)
 - Japanese: Intermediate Level Proficiency (JLPT)
-- Hindi: Full professional proficiency
+- Hindi: Intermediate Level Proficiency
 - Nepali: Native or bilingual proficiency
   
 ## <span class="animated-text">**ML/AI Projects:**</span>
