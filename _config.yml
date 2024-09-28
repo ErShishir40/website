@@ -1,4 +1,6 @@
 title: Shishir Khanal
 logo: /assets/img/001.png
 description: Mechanical Engineer with Master Degree In AI
-
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
