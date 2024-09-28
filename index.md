@@ -70,7 +70,6 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
   
 ## <span class="animated-text">**AI-Related Skills:**</span>
 ### Machine Learning & Deep Learning:
-### Machine Learning & Deep Learning:
 - Machine learning algorithms and techniques, including:
   - Regression (Linear, Logistic, Polynomial)
   - Classification (Decision Trees, Random Forest, Support Vector Machines, Naive Bayes, K-Nearest Neighbors)
