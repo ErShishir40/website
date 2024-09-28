@@ -90,84 +90,84 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
     - Computer vision: OpenCV
     - NLP: spaCy, NLTK, Hugging Face Transformers
 
-### Data Handling & Analysis:
-- Knowledge in data preprocessing, feature engineering, and data visualization and analysis
-- Proficient in SQL for data querying and management
-- Experience with Kaggle for data science competitions and projects
+- **Data Handling & Analysis:**
+    - Exploratory data analysis (EDA), Data preprocessing, feature engineering, and data visualization and analysis
+    - SQL for data querying and management
+    - Kaggle for data science competitions and projects
 
-### Software Development & Collaboration:
-- Familiar with version control using Git and GitHub
-- Basic understanding of web technologies: HTML, CSS, JavaScript
-- Proficiency in Microsoft Word, Excel, and PowerPoint for documentation and presentations
+- **Software Development & Collaboration:**
+    - Version control using Git and GitHub
+    - Web technologies: HTML, CSS, JavaScript
+    - Microsoft Word, Excel, and PowerPoint for documentation and presentations
 
 ## <span class="animated-text">**Mechanical-Related Skills:**</span>
 
-### Design & Simulation Tools:
-- Proficiency in SolidWorks, CATIA, ANSYS, and AutoCAD (2D & 3D)
-- Finite Element Analysis (FEA) and Computational Fluid Dynamics (CFD)
-- Mechanical Design & Development, Tooling and Fixture Design
-- Automotive Simulation and Engine Performance Optimization
+- **Design & Simulation Tools:**
+    - Proficiency in SolidWorks, CATIA, ANSYS, and AutoCAD (2D & 3D)
+    - Finite Element Analysis (FEA) and Computational Fluid Dynamics (CFD)
+    - Mechanical Design & Development, Tooling and Fixture Design
+    - Automotive Simulation and Engine Performance Optimization
 
-### Automotive Engineering & Vehicle Technologies:
-- Automotive Design, Powertrain Engineering, Internal Combustion Engines
-- Electric Vehicle (EV) Technologies, Drivetrain and Transmission Systems
-- NVH (Noise, Vibration, and Harshness) Analysis, Vehicle Dynamics
-- Prototyping and Testing, Vehicle Testing & Validation
-- Automotive Standards Compliance, Durability Testing, Crash Testing
+- **Automotive Engineering & Vehicle Technologies:**
+    - Automotive Design, Powertrain Engineering, Internal Combustion Engines
+    - Electric Vehicle (EV) Technologies, Drivetrain and Transmission Systems
+    - NVH (Noise, Vibration, and Harshness) Analysis, Vehicle Dynamics
+    - Prototyping and Testing, Vehicle Testing & Validation
+    - Automotive Standards Compliance, Durability Testing, Crash Testing
 
-### Manufacturing & Production Expertise:
-- Lean Manufacturing, Six Sigma, Automation & Robotics
-- Welding, Casting, and Machining Processes
-- Supply Chain and Vendor Management, Quality Control
-- Manufacturing Engineering, Process Optimization
+- **Manufacturing & Production Expertise:**
+    - Lean Manufacturing, Six Sigma, Automation & Robotics
+    - Welding, Casting, and Machining Processes
+    - Supply Chain and Vendor Management, Quality Control
+    - Manufacturing Engineering, Process Optimization
 
-### Thermal & Fluid Systems:
-- Thermodynamics, Heat Transfer, and Refrigeration
-- Pneumatic and Hydraulic Systems Design
-- Fluid Mechanics, Mechanical Testing & Analysis
-- HVAC (Heating, Ventilation, and Air Conditioning) Systems
+- **Thermal & Fluid Systems:**
+    - Thermodynamics, Heat Transfer, and Refrigeration
+    - Pneumatic and Hydraulic Systems Design
+    - Fluid Mechanics, Mechanical Testing & Analysis
+    - HVAC (Heating, Ventilation, and Air Conditioning) Systems
 
-### Additional Engineering Skills:
-- Material Selection and Failure Analysis
-- Metrology, Instrumentation, and Measurement Techniques
-- Product Lifecycle Management (PLM)
-- Manufacturing Process Improvement, Risk Analysis & Mitigation
+- **Additional Engineering Skills:**
+    - Material Selection and Failure Analysis
+    - Metrology, Instrumentation, and Measurement Techniques
+    - Product Lifecycle Management (PLM)
+    - Manufacturing Process Improvement, Risk Analysis & Mitigation
 
 ## <span class="animated-text">**Soft Skills:**</span>
-### Communication Skills:
-- Clear and effective verbal and written communication
-- Active Listening: Fully understanding and responding to what others communicate
-- Interpersonal Skills: Building and maintaining positive relationships
+- **Communication Skills:**
+    - Clear and effective verbal and written communication
+    - Active Listening: Fully understanding and responding to what others communicate
+    - Interpersonal Skills: Building and maintaining positive relationships
 
-### Collaboration & Teamwork:
-- Ability to collaborate and work well within a team
-- Leadership: Ability to lead, motivate, and guide teams
-- Conflict Resolution: Skill in managing and resolving conflicts calmly
+- **Collaboration & Teamwork:**
+    - Ability to collaborate and work well within a team
+    - Leadership: Ability to lead, motivate, and guide teams
+    - Conflict Resolution: Skill in managing and resolving conflicts calmly
 
-### Problem Solving & Critical Thinking:
-- Analytical thinking and finding creative solutions
-- Critical Thinking: Ability to analyze situations and make informed decisions
-- Creativity: Ability to think outside the box and innovate
+- **Problem Solving & Critical Thinking:**
+    - Analytical thinking and finding creative solutions
+    - Critical Thinking: Ability to analyze situations and make informed decisions
+    - Creativity: Ability to think outside the box and innovate
 
-### Adaptability & Flexibility:
-- Flexibility to manage change and handle multiple tasks
-- Openness to new ideas and working outside of comfort zones
+- **Adaptability & Flexibility:**
+    - Flexibility to manage change and handle multiple tasks
+    - Openness to new ideas and working outside of comfort zones
 
-### Time Management & Work Ethic:
-- Efficient prioritization and handling of tasks
-- Dedication, responsibility, and reliability in completing tasks
-- Self-motivation: Working independently with little supervision
+- **Time Management & Work Ethic:**
+    - Efficient prioritization and handling of tasks
+    - Dedication, responsibility, and reliability in completing tasks
+    - Self-motivation: Working independently with little supervision
 
-### Emotional Intelligence & Empathy:
-- Awareness and management of emotions in self and others
-- Understanding and addressing the needs and concerns of others
+- **Emotional Intelligence & Empathy:**
+    - Awareness and management of emotions in self and others
+    - Understanding and addressing the needs and concerns of others
 
-### Stress Management & Decision Making:
-- Maintaining performance under pressure
-- Evaluating options and making sound choices
+- **Stress Management & Decision Making:**
+    - Maintaining performance under pressure
+    - Evaluating options and making sound choices
 
-### Negotiation:
-- Ability to reach mutually beneficial agreements
+- **Negotiation:**
+    - Ability to reach mutually beneficial agreements
   
 ## <span class="animated-text">**Languages skills:**</span>
 - English: Working proficiency plus (TOEIC)
