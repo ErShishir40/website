@@ -44,10 +44,10 @@ title: Shishir Khanal
 
 Qualified engineer with a distinct knowledge of engineering, having a strong passion for design, programming and AI. Over 6 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in MS office, SolidWorks, AutoCAD(3D&2D), ML/AI, deep learning, NLP, Generative AI, LLM, and programming languages such as Python.
 
-## <span class="animated-text">**Education:**</span>
-- **Master’s Degree in Engineering, USA**
-  
-    - Mathematical + Computational Modeling  • Python Programming  • Derivative Pricing  • Deep Learning  • Data Visualization and Analysis  • Stochastic Modeling • Portfolio Management  • Financial Econometrics  • Machine Learning  • Risk Management  • Financial Econometrics  • Master Thesis
+## <span class="animated-text" style="color: #ff4500;">**Education:**</span>
+
+- **Master’s Degree in Engineering, USA** 
+    - Mathematical and Computational Modeling  • Python Programming  • Derivative Pricing  • Deep Learning  • Data Visualization and Analysis  • Stochastic Modeling • Portfolio Management  • Financial Econometrics  • Machine Learning  • Risk Management  • Financial Econometrics  • Master Thesis
       
 - **Master’s Degree in Machine Learning & Artificial Intelligence, UK**
   
