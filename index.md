@@ -69,6 +69,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 - Internship Engineer at Pepsi-2017
   
 ## <span class="animated-text">**AI-Related Skills:**</span>
+![My Image](assets/images/AI.jpg)
 - **Machine Learning & Deep Learning:**
   
     - Machine learning algorithms and techniques, including Regression (Linear, Logistic, Polynomial), Classification (Decision Trees, Random Forest, Support Vector Machines, Naive Bayes, K-Nearest Neighbors), Clustering (K-Means, Hierarchical Clustering, DBSCAN), Neural Networks (Feedforward, Convolutional Neural Networks, Recurrent Neural Networks, Long Short-Term Memory), Deep Learning (Deep Belief Networks, Autoencoders, Generative Adversarial Networks)
