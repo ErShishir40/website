@@ -69,31 +69,26 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 - Internship Engineer at Pepsi-2017
   
 ## <span class="animated-text">**AI-Related Skills:**</span>
-### Machine Learning & Deep Learning:
-- Machine learning algorithms and techniques, including:
-  - Regression (Linear, Logistic, Polynomial)
-  - Classification (Decision Trees, Random Forest, Support Vector Machines, Naive Bayes, K-Nearest Neighbors)
-  - Clustering (K-Means, Hierarchical Clustering, DBSCAN)
-  - Neural Networks (Feedforward, Convolutional Neural Networks, Recurrent Neural Networks, Long Short-Term Memory)
-  - Deep Learning (Deep Belief Networks, Autoencoders, Generative Adversarial Networks)
-- Expertise in reinforcement learning and mathematical modeling
-- Knowledge of ensemble methods (Boosting, Bagging, AdaBoost, Gradient Boosting)
-- Familiarity with dimensionality reduction techniques (Principal Component Analysis, t-SNE)
-- Experience with model evaluation techniques and predictive modeling
-- Understanding of hyperparameter tuning and optimization techniques
+- **Machine Learning & Deep Learning:**
+    - Machine learning algorithms and techniques, including Regression (Linear, Logistic, Polynomial), Classification (Decision Trees, Random Forest, Support Vector Machines, Naive Bayes, K-Nearest Neighbors), Clustering (K-Means, Hierarchical Clustering, DBSCAN), Neural Networks (Feedforward, Convolutional Neural Networks, Recurrent Neural Networks, Long Short-Term Memory), Deep Learning (Deep Belief Networks, Autoencoders, Generative Adversarial Networks)
+    - Reinforcement learning and mathematical modeling
+    - Ensemble methods (Boosting, Bagging, AdaBoost, Gradient Boosting)
+    - Dimensionality reduction techniques (Principal Component Analysis, t-SNE)
+    - Model evaluation techniques and predictive modeling
+    - Hyperparameter tuning and optimization techniques
 
-### Natural Language Processing (NLP) & Generative AI:
-- Familiar with NLP techniques, generative AI, and large language models (LLMs)
-- Proficient with OpenAI APIs, ChatGPT, BERT, Gemini, and Hugging Face Transformers
-- Experience with LangChain and LlamaIndex for enhancing NLP applications
+- **Natural Language Processing (NLP) & Generative AI:**
+    - NLP techniques and Libraries, generative AI, and large language models (LLMs)
+    - Text Preprocessing and Data Cleaning, Sentiment Analysis and Text Classification, Named Entity Recognition (NER), Conversational AI,Fine-tuning and Transfer Learning, Data Annotation and Management, Evaluation Metrics,Ethics in AI
+    - OpenAI APIs, ChatGPT, BERT, Gemini, and Hugging Face Transformers
+    - LangChain and LlamaIndex for enhancing NLP applications
 
-### Programming & Libraries:
-- Programming skills in Python with experience in libraries such as:
-  - Data manipulation: Numpy, Pandas
-  - Data visualization: Matplotlib, Seaborn
-  - Machine learning frameworks: Scikit-learn, TensorFlow, Keras, PyTorch
-  - Computer vision: OpenCV
-  - NLP: spaCy, NLTK
+- **Programming & Libraries:**
+    - Data manipulation: Numpy, Pandas
+    - Data visualization: Matplotlib, Seaborn, Plotly, Bokeh
+    - Machine learning frameworks: Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM
+    - Computer vision: OpenCV
+    - NLP: spaCy, NLTK, Hugging Face Transformers
 
 ### Data Handling & Analysis:
 - Knowledge in data preprocessing, feature engineering, and data visualization and analysis
