@@ -69,22 +69,111 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 - Internship Engineer at Pepsi-2017
   
 ## <span class="animated-text">**AI-Related Skills:**</span>
-- Familiar with machine learning algorithms and techniques, including regression, classification, clustering, neural networks, deep learning
-- Familiar with NLP,  generative AI, LLM, OpenAI, ChatGPT API, BERT, Gemini Hugging Face, Transformers, LlamaIndex, LangChain
-- Programming skills in Python, with experience using libraries such as Numpy, Pandas, Matplotlib, Seaborn, TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV and spaCy, NLTK
-- Knowledge in data prepossessing, Data Visualization and Analysis, feature engineering, and model evaluation
-- Familiar with Mathematical + Computational Modeling, Reinforcement Learning, Computer Vision
-- Knowledge in data science, statistics, predictive modelling, Kaggle, Git and GitHub, HTML, CSS, JavaScript
-- Microsoft word, Excel, and PowerPoint, SQL proficiency
+### Machine Learning & Deep Learning:
+### Machine Learning & Deep Learning:
+- Machine learning algorithms and techniques, including:
+  - Regression (Linear, Logistic, Polynomial)
+  - Classification (Decision Trees, Random Forest, Support Vector Machines, Naive Bayes, K-Nearest Neighbors)
+  - Clustering (K-Means, Hierarchical Clustering, DBSCAN)
+  - Neural Networks (Feedforward, Convolutional Neural Networks, Recurrent Neural Networks, Long Short-Term Memory)
+  - Deep Learning (Deep Belief Networks, Autoencoders, Generative Adversarial Networks)
+- Expertise in reinforcement learning and mathematical modeling
+- Knowledge of ensemble methods (Boosting, Bagging, AdaBoost, Gradient Boosting)
+- Familiarity with dimensionality reduction techniques (Principal Component Analysis, t-SNE)
+- Experience with model evaluation techniques and predictive modeling
+- Understanding of hyperparameter tuning and optimization techniques
+
+### Natural Language Processing (NLP) & Generative AI:
+- Familiar with NLP techniques, generative AI, and large language models (LLMs)
+- Proficient with OpenAI APIs, ChatGPT, BERT, Gemini, and Hugging Face Transformers
+- Experience with LangChain and LlamaIndex for enhancing NLP applications
+
+### Programming & Libraries:
+- Programming skills in Python with experience in libraries such as:
+  - Data manipulation: Numpy, Pandas
+  - Data visualization: Matplotlib, Seaborn
+  - Machine learning frameworks: Scikit-learn, TensorFlow, Keras, PyTorch
+  - Computer vision: OpenCV
+  - NLP: spaCy, NLTK
+
+### Data Handling & Analysis:
+- Knowledge in data preprocessing, feature engineering, and data visualization and analysis
+- Proficient in SQL for data querying and management
+- Experience with Kaggle for data science competitions and projects
+
+### Software Development & Collaboration:
+- Familiar with version control using Git and GitHub
+- Basic understanding of web technologies: HTML, CSS, JavaScript
+- Proficiency in Microsoft Word, Excel, and PowerPoint for documentation and presentations
 
 ## <span class="animated-text">**Mechanical-Related Skills:**</span>
-- Mechanical Design & Development
-- SolidWorks, CATIA, ANSYS and AutoCAD(2D&3D) software proficiency
-- Automotive Design, Powertrain Engineering, Internal Combustion Engines, Vehicle Dynamics, Engine Performance Optimization, Drivetrain and Transmission, NVH (Noise, Vibration, and Harshness) Analysis, Electric Vehicle (EV) Technologies
-- Manufacturing & Production Skills, Lean Manufacturing, Six Sigma, Automation & Robotics, Tooling and Fixture Design, Quality Control, Welding, Casting, and Machining, Supply Chain and Vendor Management
-- Vehicle Testing & Validation, Prototyping and Testing, Automotive Standards Compliance, Durability Testing, Crash Testing 
-- Thermodynamics and Heat Transfer, Material Selection, Pneumatic and Hydraulic Systems Design, Mechanical Testing and Analysis, Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD), Automotive Simulation
-- Manufacturing Engineering, Refrigeration and Air Conditioning, Fluid Mechanics, Metrology, Instrumentation and Measurement
+
+### Design & Simulation Tools:
+- Proficiency in SolidWorks, CATIA, ANSYS, and AutoCAD (2D & 3D)
+- Finite Element Analysis (FEA) and Computational Fluid Dynamics (CFD)
+- Mechanical Design & Development, Tooling and Fixture Design
+- Automotive Simulation and Engine Performance Optimization
+
+### Automotive Engineering & Vehicle Technologies:
+- Automotive Design, Powertrain Engineering, Internal Combustion Engines
+- Electric Vehicle (EV) Technologies, Drivetrain and Transmission Systems
+- NVH (Noise, Vibration, and Harshness) Analysis, Vehicle Dynamics
+- Prototyping and Testing, Vehicle Testing & Validation
+- Automotive Standards Compliance, Durability Testing, Crash Testing
+
+### Manufacturing & Production Expertise:
+- Lean Manufacturing, Six Sigma, Automation & Robotics
+- Welding, Casting, and Machining Processes
+- Supply Chain and Vendor Management, Quality Control
+- Manufacturing Engineering, Process Optimization
+
+### Thermal & Fluid Systems:
+- Thermodynamics, Heat Transfer, and Refrigeration
+- Pneumatic and Hydraulic Systems Design
+- Fluid Mechanics, Mechanical Testing & Analysis
+- HVAC (Heating, Ventilation, and Air Conditioning) Systems
+
+### Additional Engineering Skills:
+- Material Selection and Failure Analysis
+- Metrology, Instrumentation, and Measurement Techniques
+- Product Lifecycle Management (PLM)
+- Manufacturing Process Improvement, Risk Analysis & Mitigation
+
+## <span class="animated-text">**Soft Skills:**</span>
+### Communication Skills:
+- Clear and effective verbal and written communication
+- Active Listening: Fully understanding and responding to what others communicate
+- Interpersonal Skills: Building and maintaining positive relationships
+
+### Collaboration & Teamwork:
+- Ability to collaborate and work well within a team
+- Leadership: Ability to lead, motivate, and guide teams
+- Conflict Resolution: Skill in managing and resolving conflicts calmly
+
+### Problem Solving & Critical Thinking:
+- Analytical thinking and finding creative solutions
+- Critical Thinking: Ability to analyze situations and make informed decisions
+- Creativity: Ability to think outside the box and innovate
+
+### Adaptability & Flexibility:
+- Flexibility to manage change and handle multiple tasks
+- Openness to new ideas and working outside of comfort zones
+
+### Time Management & Work Ethic:
+- Efficient prioritization and handling of tasks
+- Dedication, responsibility, and reliability in completing tasks
+- Self-motivation: Working independently with little supervision
+
+### Emotional Intelligence & Empathy:
+- Awareness and management of emotions in self and others
+- Understanding and addressing the needs and concerns of others
+
+### Stress Management & Decision Making:
+- Maintaining performance under pressure
+- Evaluating options and making sound choices
+
+### Negotiation:
+- Ability to reach mutually beneficial agreements
   
 ## <span class="animated-text">**Languages skills:**</span>
 - English: Working proficiency plus (TOEIC)
