@@ -252,13 +252,25 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 ## <span class="animated-text">**ML/AI Projects:**</span>
 
-### **AI-Driven Gesture Reorganization System:**
+### **AI-Driven Gesture Recognition System:**
 
 Developing a cutting-edge gesture recognition system for smart TVs, leveraging advanced deep learning techniques to enable intuitive, hands-free control. This project involves designing and implementing a robust deep learning model to accurately identify and classify five distinct user gestures from real-time video feeds. Utilizing sophisticated neural network architectures, including convolutional layers for feature extraction and recurrent layers for temporal pattern recognition, the system aims to translate user gestures into TV commands, eliminating the need for a remote control. This innovative approach enhances user experience by providing seamless and interactive control, advancing the usability and functionality of smart home devices.
+
+***
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/CNN.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+***
 
 ### **AI-Driven Bike Sharing Project:**
 
 Developed a multiple linear regression model to forecast the demand for shared bikes using a dataset provided by BoomBikes, a leading bike-sharing service in the US. The project aimed to identify and analyze key factors influencing bike demand in various regions and weather conditions. The model was trained on historical data, incorporating variables such as temperature, humidity, wind speed, and seasonal effects to predict demand patterns. Feature engineering techniques, such as encoding categorical variables and scaling continuous variables, were used to improve model accuracy. Evaluated the model's performance using metrics like R-squared and Mean Absolute Error (MAE), achieving high predictive accuracy. The insights derived can help optimize resource allocation, improve customer satisfaction, and guide future business strategies.
+
+***
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/linear.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+***
 
 ### **AI-Driven House Price Prediction System:** 
 
@@ -272,17 +284,41 @@ Designing a churn prediction model for the telecommunications industry using adv
 
 Engineering a state-of-the-art multiclass classification model utilizing a bespoke Convolutional Neural Network (CNN) architecture within TensorFlow to enable automated detection and classification of skin cancer. This project employs advanced deep learning methodologies, including sophisticated feature extraction and hierarchical neural network layers, to discern and differentiate melanoma and other dermatological malignancies with high precision. By integrating cutting-edge image preprocessing techniques and model optimization strategies, the system aims to deliver a highly reliable diagnostic tool that supports dermatologists in early and accurate cancer detection, thereby significantly enhancing clinical decision-making and patient management through automated, real-time analysis.
 
+***
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/CD.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+***
+
 ### **AI-Driven Custom Entity Detection System In Healthcare Data (NLP):**
 
 Developing an advanced Named Entity Recognition (NER) system tailored for the healthcare domain. This project focuses on leveraging state-of-the-art machine learning techniques to create a custom NER model designed to accurately extract and categorize medical entities from complex healthcare datasets. The primary goal is to identify and classify entities such as diseases, symptoms, and their corresponding treatments, enabling more efficient data analysis and supporting enhanced clinical decision-making. This AI-driven system significantly aids healthcare professionals, including doctors and medical researchers, by providing precise and actionable insights from vast amounts of unstructured data, ultimately contributing to improved patient outcomes and accelerated medical research.
+
+***
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/NER.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+***
 
 ### **AI-Driven Automatic Classification System Of Customer Complaints:**
 
 Developing an intelligent classification system for automating the categorization of customer complaint tickets. This project leverages advanced machine learning techniques to build a solution that accurately identifies and classifies the type of complaint raised by customers from unstructured text data. By employing sophisticated natural language processing (NLP) methods and machine learning algorithms, the system aims to streamline complaint management processes, enhance operational efficiency, and improve response accuracy. The ultimate objective is to enable businesses to swiftly address customer issues and drive better customer satisfaction through automated, precise complaint categorization.
 
+***
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/NLP.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+***
+
 ### **AI-Driven Fake News Detection System:**
 
-Developing a comprehensive Fake News Detection System employing a diverse array of machine learning models to combat misinformation. This project integrates several advanced classification algorithms, including Logistic Regression, Decision Tree Classification, Gradient Boosting Classifier, and Random Forest Classifier, to create a robust and reliable detection framework. By leveraging these diverse models, the system is designed to analyze textual data and identify misleading or false information with high accuracy. The approach incorporates feature engineering, model ensemble techniques, and rigorous evaluation metrics to ensure effective and scalable detection of fake news, contributing to a more informed and trustworthy information ecosystem..
+Developing a comprehensive Fake News Detection System employing a diverse array of machine learning models to combat misinformation. This project integrates several advanced classification algorithms, including Logistic Regression, Decision Tree Classification, Gradient Boosting Classifier, and Random Forest Classifier, to create a robust and reliable detection framework. By leveraging these diverse models, the system is designed to analyze textual data and identify misleading or false information with high accuracy. The approach incorporates feature engineering, model ensemble techniques, and rigorous evaluation metrics to ensure effective and scalable detection of fake news, contributing to a more informed and trustworthy information ecosystem.
+
+***
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/FN.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+***
 
 ### **Gen AI Project: Generative Search System (Mr.HelpMate AI):**
 
@@ -295,6 +331,12 @@ Developed an AI-driven system designed to analyze user-reported symptoms and pro
 ### **AI-Driven Heart Failure Prediction System:**
 
 Developed a machine learning model to predict heart failure based on key clinical parameters, including anaemia, creatinine phosphokinase levels, diabetes, ejection fraction, blood pressure, platelets, serum creatinine, and serum sodium. This AI-driven system analyzes these indicators to predict heart failure risk, aiding in early diagnosis and improving treatment outcomes. Designed to assist doctors, researchers, and healthcare professionals in making more informed decisions, it is a cutting-edge solution at the intersection of AI and healthcare.
+
+***
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/HF.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+***
 
 ## <span class="animated-text">**Mechanical Research Projects:**</span>
 
