@@ -84,14 +84,6 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 ## <span class="animated-text">**AI-Related Skills:**</span>
 
-***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/AI.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
 - **Machine Learning & Deep Learning:**
     - Machine learning algorithms and techniques, including Regression (Linear, Logistic, Polynomial), Classification (Decision Trees, Random Forest, Support Vector Machines, Naive Bayes, K-Nearest Neighbors), Clustering (K-Means, Hierarchical Clustering, DBSCAN), Neural Networks (Feedforward, Convolutional Neural Networks, Recurrent Neural Networks, Long Short-Term Memory), Deep Learning (Deep Belief Networks, Autoencoders, Generative Adversarial Networks)
     - Reinforcement learning and mathematical modeling
@@ -105,6 +97,14 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
     - Text Preprocessing and Data Cleaning, Sentiment Analysis and Text Classification, Named Entity Recognition (NER), Conversational AI,Fine-tuning and Transfer Learning, Data Annotation and Management, Evaluation Metrics,Ethics in AI
     - OpenAI APIs, ChatGPT, BERT, Gemini, and Hugging Face Transformers
     - LangChain and LlamaIndex for enhancing NLP applications
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/AI.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
 
 - **Programming & Libraries:**
     - Data manipulation: Numpy, Pandas
@@ -126,24 +126,24 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/DS.JPG" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
+    <img src="assets/img/DS.JPG" alt="Image 2" style="width: 500px; height: 500px; object-fit: cover;">
 </div>
 
 ## <span class="animated-text">**Mechanical-Related Skills:**</span>
-
-***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/MS2.JPG" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
 
 - **Design & Simulation Tools:**
     - Proficiency in SolidWorks, CATIA, ANSYS, and AutoCAD (2D & 3D)
     - Finite Element Analysis (FEA) and Computational Fluid Dynamics (CFD)
     - Mechanical Design & Development, Tooling and Fixture Design
     - Automotive Simulation and Engine Performance Optimization
+      
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/MS2.JPG" alt="Image 2" style="width: 500px; height: 500px; object-fit: cover;">
+</div>
+
+***
 
 - **Automotive Engineering & Vehicle Technologies:**
     - Automotive Design, Powertrain Engineering, Internal Combustion Engines
@@ -157,6 +157,13 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
     - Welding, Casting, and Machining Processes
     - Supply Chain and Vendor Management, Quality Control
     - Manufacturing Engineering, Process Optimization
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/MS.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
 
 - **Thermal & Fluid Systems:**
     - Thermodynamics, Heat Transfer, and Refrigeration
@@ -171,13 +178,6 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
     - Manufacturing Process Improvement, Risk Analysis & Mitigation
 
 ***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/MS.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/MS3.jpeg" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
 </div>
@@ -185,20 +185,6 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 ***
 
 ## <span class="animated-text">**Soft Skills:**</span>
-
-***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/SS1.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/SS2.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
 
 - **Communication Skills:**
     - Clear and effective verbal and written communication
@@ -214,6 +200,13 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
     - Analytical thinking and finding creative solutions
     - Critical Thinking: Ability to analyze situations and make informed decisions
     - Creativity: Ability to think outside the box and innovate
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/SS1.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
 
 - **Adaptability & Flexibility:**
     - Flexibility to manage change and handle multiple tasks
@@ -234,6 +227,11 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 - **Negotiation:**
     - Ability to reach mutually beneficial agreements
+
+***
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/SS2.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
 
 ***
   
