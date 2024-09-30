@@ -385,24 +385,37 @@ The conversion of magnetic power into mechanical energy is the prime subject of 
 ### **Design:**
 The strong Neodymium magnets (NdFeB40MGOe) arranged in proper inclination in flywheel and cover design and assembled in bicycle sprocket shaft produce magnetic force to assist the human effort. This investigation project was proposed by performing paper research, experiments, hardware prototype development and software simulation.
 
-![Pic1](https://github.com/Erkhanal/portfolio/assets/148779208/d1572652-9736-4fb9-b104-1e506f65e8ec)
+***
 
-* * *
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/Pic1.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
 
 ### **Procedure:**
 
 The flywheel design was performed in Solidworks, magnetic simulation was performed in ANSYS software (FEMM). The repulsive force between magnets in outer circumference of flywheel and inner surface of the cover provides torque in sprocket shaft in addition to manual torque. The magnetic field, resultant force on magnetic flywheel was determined for rectangular magnets in circular position by magnetic simulation. The performance characteristic of the bicycle was determined by conducting practical experiment. The final design of the prototype was selected based on the optimum result obtained from the magnetic simulation in FEMM software. The alternative magnetic shielding material was used instead of Mu metal due to unavailability in local market. 
 
-![Pic2](https://github.com/Erkhanal/portfolio/assets/148779208/ed110061-b34e-48ff-972e-c1f4a392f2b3)
+***
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/Pic2.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
 
+***
 
 ### **Conclusion:**
 
 The performance of the bicycle was found to be increased significantly after implementation of the magnetic flywheel. Thus, the detail study on this project has led to the need of more research and can be developed as one of means of green energy.
 
-![Picture13](https://github.com/Erkhanal/portfolio/assets/148779208/58ab3f93-1090-425c-8d3a-d8df8617d31c)
+***
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/Picture13.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
 
 ## <span class="animated-text">**Certificates:**</span>
 
