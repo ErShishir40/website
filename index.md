@@ -42,13 +42,13 @@ title: Shishir Khanal
 
 ## <span class="animated-text">**Summary:**</span>
 Qualified engineer with a distinct knowledge of engineering, having a strong passion for design, programming and AI. Over 6 years of experience in the engineering field with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in MS office, SolidWorks, AutoCAD(3D&2D), ML/AI, deep learning, NLP, Generative AI, LLM, and programming languages such as Python.
-
 ***
 ## <span class="animated-text" style="color: #ff4500;">**Education:**</span>
-
+***
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/G1.JPG" alt="Image 1" style="width: 800px; height: 300px; object-fit: cover;">
+    <img src="assets/img/G1.JPG" alt="Image 1" style="width: 600px; height: 200px; object-fit: cover;">
 </div>
+***
 
 - **Master’s Degree in Engineering, USA**
     - Mathematical and Computational Modeling  • Python Programming  • Derivative Pricing  • Deep Learning  • Data Visualization and Analysis  • Stochastic Modeling • Portfolio Management  • Financial Econometrics  • Machine Learning  • Risk Management  • Financial Econometrics  • Master Thesis
@@ -61,9 +61,10 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
  
 - **Bachelor’s Degree in Mechanical Engineering, Nepal**
   - Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • CAD • Engineering Drawing • Project Engineering and Management • Engineering Economics • Engineering Professional Ethics • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Engineering Physics • Engineering Chemistry • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Work    
+***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/G2.JPG" alt="Image 2" style="width: 800px; height: 300px; object-fit: cover;">
+    <img src="assets/img/G2.JPG" alt="Image 2" style="width: 600px; height: 200px; object-fit: cover;">
 </div>
 
 ***
