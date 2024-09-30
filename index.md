@@ -280,9 +280,25 @@ Developed a multiple linear regression model to forecast the demand for shared b
 
 Designed and implemented a predictive model for house prices using advanced regression techniques, including Ridge and Lasso regression. This system leverages historical housing market data, with features such as property size, location, number of rooms, and neighborhood demographics. Ridge regression was used to mitigate multicollinearity, while Lasso regression helped with feature selection by reducing the weight of less important variables to zero. The model was optimized using cross-validation techniques and evaluated through performance metrics like R-squared and Root Mean Squared Error (RMSE), providing accurate and interpretable predictions. The system offers valuable insights for real estate investors, homebuyers, and market analysts to make data-driven decisions.
 
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/HP.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
 ### **AI-Driven Telecom Churn Prediction System:**
 
 Designing a churn prediction model for the telecommunications industry using advanced machine learning techniques. This project focuses on developing and optimizing predictive models to accurately forecast customer attrition, leveraging a range of algorithms including Logistic Regression, Decision Trees, and Random Forests. By systematically evaluating model performance through rigorous metrics and aligning with business objectives, the system aims to identify key predictor variables that contribute to customer churn. The ultimate goal is to implement the most effective model, providing actionable insights to enhance customer retention strategies and drive business growth.
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/TL.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
 
 ### **AI-Driven Melanoma-Detection System:**
 
@@ -315,7 +331,7 @@ Developing an intelligent classification system for automating the categorizatio
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/NLP.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+    <img src="assets/img/NER3.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
