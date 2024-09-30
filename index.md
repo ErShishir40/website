@@ -49,7 +49,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 ***
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/G1.JPG" alt="Image 1" style="width: 600px; height: 250px; object-fit: cover;">
+    <img src="assets/img/G1.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
@@ -69,7 +69,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/G2.JPG" alt="Image 2" style="width: 600px; height: 250px; object-fit: cover;">
+    <img src="assets/img/G2.JPG" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
@@ -174,6 +174,11 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/MS.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
+<div style="display: flex; justify-content: space-between;">
     <img src="assets/img/MS3.jpeg" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
@@ -185,7 +190,12 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/SS1.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-    <img src="assets/img/SS2.JPG" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/SS2.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
