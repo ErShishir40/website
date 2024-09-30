@@ -357,6 +357,14 @@ Architecting a sophisticated Generative Search System named Mr.HelpMate AI, util
 
 Developed an AI-driven system designed to analyze user-reported symptoms and provide potential diagnoses in real-time. Utilizing advanced NLP and ML models, the system identifies and classifies symptoms to suggest possible medical conditions, as well as recommend potential treatment options. This empowers users with reliable health information while also assisting doctors and researchers in identifying patterns, enhancing early symptom evaluation, and improving healthcare accessibility. The tool supports healthcare professionals by streamlining diagnosis and treatment decisions, ultimately contributing to more efficient patient care.
 
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/SD.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
 ### **AI-Driven Heart Failure Prediction System:**
 
 Developed a machine learning model to predict heart failure based on key clinical parameters, including anaemia, creatinine phosphokinase levels, diabetes, ejection fraction, blood pressure, platelets, serum creatinine, and serum sodium. This AI-driven system analyzes these indicators to predict heart failure risk, aiding in early diagnosis and improving treatment outcomes. Designed to assist doctors, researchers, and healthcare professionals in making more informed decisions, it is a cutting-edge solution at the intersection of AI and healthcare.
