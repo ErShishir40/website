@@ -126,7 +126,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/DS.JPG" alt="Image 2" style="width: 400px; height: 400px; object-fit: cover;">
+    <img src="assets/img/DS.JPG" alt="Image 2" style="width: auto; height: 400px; object-fit: cover;">
 </div>
 
 ***
@@ -142,7 +142,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/MS2.JPG" alt="Image 2" style="width: 300px; height: 300px; object-fit: cover;">
+    <img src="assets/img/MS2.JPG" alt="Image 2" style="width: auto; height: 400px; object-fit: cover;">
 </div>
 
 ***
