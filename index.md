@@ -159,6 +159,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
     - Welding, Casting, and Machining Processes
     - Supply Chain and Vendor Management, Quality Control
     - Manufacturing Engineering, Process Optimization
+      
 ***
 
 <div style="display: flex; justify-content: space-between;">
