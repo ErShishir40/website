@@ -49,7 +49,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 ***
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/G1.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+    <img src="assets/img/G1.JPG" alt="Image 1" style="width: 600px; height: 250px; object-fit: cover;">
 </div>
 
 ***
@@ -69,7 +69,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/G2.JPG" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
+    <img src="assets/img/G2.JPG" alt="Image 2" style="width: 600px; height: 250px; object-fit: cover;">
 </div>
 
 ***
@@ -126,8 +126,10 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/DS.JPG" alt="Image 2" style="width: 500px; height: 500px; object-fit: cover;">
+    <img src="assets/img/DS.JPG" alt="Image 2" style="width: 400px; height: 400px; object-fit: cover;">
 </div>
+
+***
 
 ## <span class="animated-text">**Mechanical-Related Skills:**</span>
 
@@ -140,7 +142,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/MS2.JPG" alt="Image 2" style="width: 500px; height: 500px; object-fit: cover;">
+    <img src="assets/img/MS2.JPG" alt="Image 2" style="width: 300px; height: 300px; object-fit: cover;">
 </div>
 
 ***
@@ -178,6 +180,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
     - Manufacturing Process Improvement, Risk Analysis & Mitigation
 
 ***
+
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/MS3.jpeg" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
 </div>
@@ -200,6 +203,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
     - Analytical thinking and finding creative solutions
     - Critical Thinking: Ability to analyze situations and make informed decisions
     - Creativity: Ability to think outside the box and innovate
+      
 ***
 
 <div style="display: flex; justify-content: space-between;">
@@ -229,6 +233,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
     - Ability to reach mutually beneficial agreements
 
 ***
+
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/SS2.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
