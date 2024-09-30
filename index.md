@@ -45,24 +45,26 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 ***
 ## <span class="animated-text" style="color: #ff4500;">**Education:**</span>
+
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/G1.JPG" alt="Image 1" style="width: 250px; height: 250px; object-fit: cover;">
-    <img src="assets/img/G2.JPG" alt="Image 2" style="width: 250px; height: 250px; object-fit: cover;">
+    <img src="assets/img/G1.JPG" alt="Image 1" style="width: 500px; height: 200px; object-fit: cover;">
 </div>
+
 - **Master’s Degree in Engineering, USA**
     - Mathematical and Computational Modeling  • Python Programming  • Derivative Pricing  • Deep Learning  • Data Visualization and Analysis  • Stochastic Modeling • Portfolio Management  • Financial Econometrics  • Machine Learning  • Risk Management  • Financial Econometrics  • Master Thesis
       
 - **Master’s Degree in Machine Learning & Artificial Intelligence, UK**
-  
-   - Statistics and EDA  • Machine Learning  • Deep Learning  • Natural Language Processing (NLP)  • Reinforcement Learning  • Computer Vision  • Generative AI  • LLM  • Master Thesis
+  - Statistics and EDA  • Machine Learning  • Deep Learning  • Natural Language Processing (NLP)  • Reinforcement Learning  • Computer Vision  • Generative AI  • LLM  • Master Thesis
       
 - **Executive Post Graduate in Machine Learning & Artificial Intelligence, India**
-  
-   - Python Programming  • Mathematics for AI/ML  • Statistics and Exploratory Data Analytics  • Data Analysis using SQL and Excel  • Data Visualisation  • Machine Learning  • Deep Learning  • Natural Language Processing (NLP)  • Reinforcement Learning  • Computer Vision  • Generative AI  • LLM  • Capstone  
+  - Python Programming  • Mathematics for AI/ML  • Statistics and Exploratory Data Analytics  • Data Analysis using SQL and Excel  • Data Visualisation  • Machine Learning  • Deep Learning  • Natural Language Processing (NLP)  • Reinforcement Learning  • Computer Vision  • Generative AI  • LLM  • Capstone  
  
 - **Bachelor’s Degree in Mechanical Engineering, Nepal**
-  
-   - Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • CAD • Engineering Drawing • Project Engineering and Management • Engineering Economics • Engineering Professional Ethics • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Engineering Physics • Engineering Chemistry • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Work    
+  - Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • CAD • Engineering Drawing • Project Engineering and Management • Engineering Economics • Engineering Professional Ethics • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Engineering Physics • Engineering Chemistry • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Work    
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/G2.JPG" alt="Image 2" style="width: 500px; height: 200px; object-fit: cover;">
+</div>
 
 ***
 
