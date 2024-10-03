@@ -377,6 +377,42 @@ Developed a machine learning model to predict heart failure based on key clinica
 
 ***
 
+### **AI-Driven Handwriting Detection System:**
+
+Developed an AI-powered handwriting detection system using a convolutional neural network (CNN) trained on a large dataset of handwritten images. The system efficiently classifies and recognizes digits and characters, utilizing advanced preprocessing techniques like normalization and data augmentation to enhance accuracy. With a well-optimized CNN architecture and regularization methods, the model achieved high precision, making it suitable for real-time applications.
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/HD.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
+### **AI-Driven Credit Card Fraud Detection System:**
+
+Developed an AI-based credit card fraud detection system using machine learning algorithms to identify fraudulent transactions. The system was trained on a highly imbalanced dataset and utilized techniques such as oversampling and feature scaling to improve detection accuracy. Key models like Logistic Regression, Random Forest, and Gradient Boosting were implemented, with hyperparameter tuning and cross-validation to enhance performance. The final model achieved high precision and recall, providing real-time fraud detection capabilities.
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/CD2.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
+### **Eye for the Blind:**
+
+Developed an AI-powered assistive technology, "Eye for the Blind," designed to help visually impaired individuals by recognizing and describing their surroundings in real-time. Leveraged deep learning techniques, including object detection models like YOLOv5, and natural language processing (NLP) for converting visual data into spoken descriptions. The system integrates a camera to capture images, processes them with the trained model, and provides auditory feedback via speech synthesis.
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/eye.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
 ## <span class="animated-text">**Mechanical Research Projects:**</span>
 
 ### **Design and Development of Magnetic Bicycle:**
