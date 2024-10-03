@@ -119,7 +119,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/PL.webp" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
+    <img src="assets/img/PL2.JPG" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
