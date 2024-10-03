@@ -41,7 +41,7 @@ title: Shishir Khanal
 </style>
 
 ## <span class="animated-text">**Summary:**</span>
-Qualified engineer with a distinct knowledge of engineering, having a strong passion for design, programming and AI. Over 6 years of work experience with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in MS office, SolidWorks, AutoCAD(3D&2D), ML/AI, deep learning, NLP, Generative AI, LLM, and programming languages such as Python.
+Qualified engineer with a triple Master’s degree from prestigious universities in USA, UK, and India, with a distinct knowledge of engineering, having a strong passion for creative design, programming and AI. Over 6 years of work experience with finely tuned technical writing, critical thinking, and problem-solving skills. Proficient in MS office, SolidWorks, AutoCAD(3D&2D), ML/AI, deep learning, NLP, Generative AI, LLM, and programming languages such as Python.
 
 ***
 
@@ -124,7 +124,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 ***
 
-## <span class="animated-text">**Mechanical-Related Skills:**</span>
+## <span class="animated-text">**Mechanical Engineering-Related Skills:**</span>
 
 - **Design & Simulation Tools:**
     - Proficiency in SolidWorks, CATIA, ANSYS, and AutoCAD (2D & 3D)
