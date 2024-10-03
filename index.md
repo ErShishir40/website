@@ -396,7 +396,7 @@ Developed an AI-based stock price prediction system leveraging Long Short-Term M
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/STP.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+    <img src="assets/img/STP.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
