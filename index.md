@@ -99,13 +99,6 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 
 ***
 
-- **Programming & Libraries:**
-    - Data manipulation: Numpy, Pandas
-    - Data visualization: Matplotlib, Seaborn, Plotly, Bokeh
-    - Machine learning frameworks: Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM
-    - Computer vision: OpenCV
-    - NLP: spaCy, NLTK, Hugging Face Transformers
-
 - **Data Handling & Analysis:**
     - Exploratory data analysis (EDA), Data preprocessing, feature engineering, and data visualization and analysis
     - SQL for data querying and management
@@ -116,10 +109,17 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
     - Web technologies: HTML, CSS, JavaScript
     - Microsoft Word, Excel, and PowerPoint for documentation and presentations
 
+- **Programming & Libraries:**
+    - Data manipulation: Numpy, Pandas
+    - Data visualization: Matplotlib, Seaborn, Plotly, Bokeh
+    - Machine learning frameworks: Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, LightGBM
+    - Computer vision: OpenCV
+    - NLP: spaCy, NLTK, Hugging Face Transformers
+
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/DS.JPG" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
+    <img src="assets/img/PL.webp" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
@@ -135,7 +135,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/MS2.JPG" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
+    <img src="assets/img/MECH.JPG" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
