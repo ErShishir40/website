@@ -201,7 +201,7 @@ Qualified engineer with a distinct knowledge of engineering, having a strong pas
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/SS1.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+    <img src="assets/img/SS5.webp" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
