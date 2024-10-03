@@ -365,18 +365,6 @@ Developed an AI-driven system designed to analyze user-reported symptoms and pro
 
 ***
 
-### **AI-Driven Heart Failure Prediction System:**
-
-Developed a machine learning model to predict heart failure based on key clinical parameters, including anaemia, creatinine phosphokinase levels, diabetes, ejection fraction, blood pressure, platelets, serum creatinine, and serum sodium. This AI-driven system analyzes these indicators to predict heart failure risk, aiding in early diagnosis and improving treatment outcomes. Designed to assist doctors, researchers, and healthcare professionals in making more informed decisions, it is a cutting-edge solution at the intersection of AI and healthcare.
-
-***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/HF.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
 ### **AI-Driven Handwriting Detection System:**
 
 Developed an AI-powered handwriting detection system using a convolutional neural network (CNN) trained on a large dataset of handwritten images. The system efficiently classifies and recognizes digits and characters, utilizing advanced preprocessing techniques like normalization and data augmentation to enhance accuracy. With a well-optimized CNN architecture and regularization methods, the model achieved high precision, making it suitable for real-time applications.
@@ -409,6 +397,18 @@ Developed an AI-powered assistive technology, "Eye for the Blind," designed to h
 
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/img/eye.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
+### **AI-Driven Heart Failure Prediction System:**
+
+Developed a machine learning model to predict heart failure based on key clinical parameters, including anaemia, creatinine phosphokinase levels, diabetes, ejection fraction, blood pressure, platelets, serum creatinine, and serum sodium. This AI-driven system analyzes these indicators to predict heart failure risk, aiding in early diagnosis and improving treatment outcomes. Designed to assist doctors, researchers, and healthcare professionals in making more informed decisions, it is a cutting-edge solution at the intersection of AI and healthcare.
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/HF.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
