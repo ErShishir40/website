@@ -389,6 +389,18 @@ Developed an AI-based credit card fraud detection system using machine learning 
 
 ***
 
+### **AI-Driven Stock Price Prediction System:**
+
+Developed an AI-based stock price prediction system leveraging Long Short-Term Memory (LSTM) neural networks to model and forecast future stock prices based on historical time series data. The system was designed to capture long-term dependencies and trends in financial data using techniques such as data normalization, sliding window for sequence generation, and feature engineering including moving averages and technical indicators. LSTM layers were optimized with dropout regularization and Adam optimizer to prevent overfitting and improve convergence. The model was evaluated using metrics like Mean Squared Error (MSE).
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/STP.jpg" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
 ### **Eye for the Blind:**
 
 Developed an AI-powered assistive technology, "Eye for the Blind," designed to help visually impaired individuals by recognizing and describing their surroundings in real-time. Leveraged deep learning techniques, including object detection models like YOLOv5, and natural language processing (NLP) for converting visual data into spoken descriptions. The system integrates a camera to capture images, processes them with the trained model, and provides auditory feedback via speech synthesis.
