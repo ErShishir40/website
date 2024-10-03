@@ -396,7 +396,7 @@ Developed an AI-powered assistive technology, "Eye for the Blind," designed to h
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/eye.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+    <img src="assets/img/eye2.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
