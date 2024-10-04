@@ -135,14 +135,6 @@ Qualified engineer with a triple Master’s degree from prestigious universities
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/MECH.JPG" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
-
-***
-
-<div style="display: flex; justify-content: space-between;">
     <img src="assets/img/Mechanicaljpg.jpg" alt="Image 2" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
