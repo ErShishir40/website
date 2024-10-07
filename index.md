@@ -215,9 +215,13 @@ Qualified engineer with a triple Master’s degree from prestigious universities
     - Dedication, responsibility, and reliability in completing tasks
     - Self-motivation: Working independently with little supervision
 
-- **Emotional Intelligence & Empathy:**
-    - Awareness and management of emotions in self and others
-    - Understanding and addressing the needs and concerns of others
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/ss6.webp" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
 
 - **Stress Management & Decision Making:**
     - Maintaining performance under pressure
@@ -225,6 +229,10 @@ Qualified engineer with a triple Master’s degree from prestigious universities
 
 - **Negotiation:**
     - Ability to reach mutually beneficial agreements
+      
+- **Emotional Intelligence & Empathy:**
+    - Awareness and management of emotions in self and others
+    - Understanding and addressing the needs and concerns of others
 
 ***
 
