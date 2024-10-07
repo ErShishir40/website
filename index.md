@@ -94,7 +94,7 @@ Qualified engineer with a triple Master’s degree from prestigious universities
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/AIS.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+    <img src="assets/img/AISS.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
