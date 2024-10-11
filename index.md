@@ -77,6 +77,15 @@ Qualified engineer with a triple Master’s degree from prestigious universities
 
 ## <span class="animated-text">**AI-Related Skills:**</span>
 
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/MATH.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
+
 - **Machine Learning:**
     - Machine learning algorithms and techniques, including Regression (Linear, Logistic, Polynomial, Ridge and Lasso Regression), Classification (Decision Trees, Random Forest, Support Vector Machines, Naive Bayes, K-Nearest Neighbors, Gradient Boosting), Clustering (K-Means, Hierarchical Clustering, DBSCAN, Gaussian Mixture Models)
     - Model evaluation techniques (Cross-validation (K-Fold, Stratified K-Fold), Confusion Matrix, Precision, Recall, F1 Score, ROC-AUC, Precision-Recall curves, Mean Absolute Error, Mean Squared Error, RMSE, R² Score) and predictive modeling
@@ -84,6 +93,14 @@ Qualified engineer with a triple Master’s degree from prestigious universities
     - Reinforcement learning and mathematical modeling
     - Ensemble methods (Boosting, Bagging, AdaBoost, Gradient Boosting)
     - Dimensionality reduction techniques (Principal Component Analysis, t-SNE)
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/AISS.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
 
 - **Deep Learning:**
     - Neural Networks, Feedforward, Convolutional Neural Networks (CNN), Recurrent Neural Networks(RNN), Long Short-Term Memory, Gated Recurrent Units (GRU)), Autoencoders, Transformers, Attention Mechanisms, Transfer Learning, Generative Adversarial Networks
@@ -100,7 +117,14 @@ Qualified engineer with a triple Master’s degree from prestigious universities
     - Text Similarity & Clustering: Cosine similarity, Jaccard similarity, Text clustering (e.g., K-means, Agglomerative clustering), Topic modeling (LDA)
     - Evaluation metrics: precision, recall, F1 score, BLEU, ROUGE, METEOR, perplexity, cross-entropy
     - Frameworks & Libraries: TensorFlow, PyTorch, Hugging Face Transformers, spaCy, NLTK, Gensim, OpenAI API, Stanford NLP, speech recognition (ASR models), text-to-speech (Tacotron, WaveNet)
- 
+
+ ***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/NLP2.webp" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
 - **Generative AI:**
     - Generative Models: GANs (Generative Adversarial Networks), VAEs (Variational Autoencoders), Diffusion Models, DCGAN (Deep Convolutional GAN), ProGAN (Progressive GAN), StyleGAN, Pix2Pix, Autoencoders, Seq2seq Models, WaveNet, Text-to-Image Models (like DALL·E), DDPM (Denoising Diffusion Probabilistic Models)
     - Transformer-based Models: Transformers, GPT (Generative Pretrained Transformer), BERT (Bidirectional Encoder Representations from Transformers), T5 (Text-to-Text Transfer Transformer), LLMs (Large Language Models), SLMs (Smaller Language Models), Attention Mechanism (Transformer Architecture)
@@ -114,7 +138,7 @@ RAG (Retrieval-Augmented Generation)
 ***
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/AISS.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+    <img src="assets/img/LC.JPG" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
 </div>
 
 ***
