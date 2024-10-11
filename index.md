@@ -11,7 +11,7 @@ title: Shishir Khanal
 
   @keyframes backgroundColorChange {
     30% {
-      background-color: white;
+      background-color: lightgreen;
     }
     60% {
       background-color: lightblue; /* Change to the desired background color */
