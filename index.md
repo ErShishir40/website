@@ -31,7 +31,7 @@ title: Shishir Khanal
   }
 
   .animated-text {
-    animation: fadeInScale 20s ease;
+    animation: fadeInScale 3s ease;
   }
 
   .centered-blue {
