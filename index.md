@@ -86,16 +86,30 @@ Qualified engineer with a triple Master’s degree from prestigious universities
     - Dimensionality reduction techniques (Principal Component Analysis, t-SNE)
 
 - **Deep Learning:**
-    - Neural Networks (Feedforward, Convolutional Neural Networks (CNN), Recurrent Neural Networks(RNN), Long Short-Term Memory, Gated Recurrent Units (GRU)), Deep Learning (Deep Belief Networks, Autoencoders, Generative Adversarial Networks)
-    - VGG, ResNet, Inception, EfficientNet
+    - Neural Networks, Feedforward, Convolutional Neural Networks (CNN), Recurrent Neural Networks(RNN), Long Short-Term Memory, Gated Recurrent Units (GRU)), Autoencoders, Transformers, Attention Mechanisms, Transfer Learning, Generative Adversarial Networks
     - Optimization Techniques (Backpropagation, Stochastic Gradient Descent (SGD) and variants (Adam, RMSprop, AdaGrad), Batch Normalization, Dropout, Layer Normalization)
-    
+    - VGG, ResNet, Inception, EfficientNet
+    - Computer Vision, Image Processing, Object Detection, Segmentation
 
-- **Natural Language Processing (NLP) & Generative AI:**
-    - NLP techniques and Libraries, generative AI, and large language models (LLMs)
-    - Text Preprocessing and Data Cleaning, Sentiment Analysis and Text Classification, Named Entity Recognition (NER), Conversational AI,Fine-tuning and Transfer Learning, Data Annotation and Management, Evaluation Metrics,Ethics in AI
+- **Natural Language Processing (NLP):**
+    - Lexical analysis, Syntactic analysis, Semantic analysis, Discourse integration, Pragmatic analysis
+    - Text Preprocessing: Tokenization, Lemmatization and Stemming, Stopword removal, Sentence splitting, Part-of-Speech (POS) tagging, Named Entity Recognition (NER), Text normalization (lowercasing, punctuation removal)
+    - Text Representation: Bag of Words (BoW), Term Frequency-Inverse Document Frequency (TF-IDF), Word embeddings (Word2Vec, GloVe, FastText), Sentence embeddings (BERT, GPT, Sentence-BERT, etc.), One-hot encoding
+    - Language Models: Transformer models (BERT, GPT, RoBERTa, T5), Recurrent Neural Networks (RNN, LSTM, GRU), Attention mechanisms, Pre-training and fine-tuning of large models
+    - Text classification, Sentiment analysis, Topic modeling, Emotion detection, Sequence modeling, Machine translation, Text generation, Question answering, Text summarization, Semantic role labeling, Co-reference resolution, Dependency parsing, Intent detection, Slot filling, Response generation, Content creation
+    - Text Similarity & Clustering: Cosine similarity, Jaccard similarity, Text clustering (e.g., K-means, Agglomerative clustering), Topic modeling (LDA)
+    - Evaluation metrics: precision, recall, F1 score, BLEU, ROUGE, METEOR, perplexity, cross-entropy
+    - Frameworks & Libraries: TensorFlow, PyTorch, Hugging Face Transformers, spaCy, NLTK, Gensim, OpenAI API, Stanford NLP, speech recognition (ASR models), text-to-speech (Tacotron, WaveNet)
+ 
+- **Generative AI:**
+    - Generative Models: GANs (Generative Adversarial Networks), VAEs (Variational Autoencoders), Diffusion Models, DCGAN (Deep Convolutional GAN), ProGAN (Progressive GAN), StyleGAN, Pix2Pix, Autoencoders, Seq2seq Models, WaveNet, Text-to-Image Models (like DALL·E), DDPM (Denoising Diffusion Probabilistic Models)
+    - Transformer-based Models: Transformers, GPT (Generative Pretrained Transformer), BERT (Bidirectional Encoder Representations from Transformers), T5 (Text-to-Text Transfer Transformer), LLMs (Large Language Models), SLMs (Smaller Language Models), Attention Mechanism (Transformer Architecture)
+    - RNN-based and Sequential Models: LSTM (Long Short-Term Memory), RNNs (Recurrent Neural Networks), Encoder-Decoder Models
+    - Model Optimization and Techniques: Fine-tuning, Prompt Engineering, LangChain, LangChain AI Agent, LlamaIndex (for efficient retrieval in generative tasks)
+RAG (Retrieval-Augmented Generation)
+    - Information Retrieval and Extraction: Named entity recognition (NER), Relation extraction, Document retrieval (using vector databases and embeddings), Knowledge graph creation, Retrieval-Augmented Generation (RAG)
+    - Conversational AI, Fine-tuning and Transfer Learning, Data Annotation and Management, Evaluation Metrics, Ethics in AI, Diffusion Models, AI Agent, Multimodal Models, Document Question Answering, Imagen
     - OpenAI APIs, ChatGPT, BERT, Gemini, and Hugging Face Transformers
-    - LangChain and LlamaIndex for enhancing NLP applications
 
 ***
 
