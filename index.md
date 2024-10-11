@@ -50,7 +50,7 @@ Qualified engineer with a triple Master’s degree from prestigious universities
 - **Master’s Degree in Engineering, USA**
     - Mathematical and Computational Modeling  • Data Visualization and Analysis  • Stochastic Modeling • Derivative Pricing • Python Programming  • Machine Learning  • Deep Learning  • Portfolio Management  • Financial Econometrics   • Risk Management  • Master Thesis 
       
-- **Master’s Degree in Machine Learning & Artificial Intelligence, UK**
+- **Master’s Degree in Artificial Intelligence (AI), UK**
   - Statistics and EDA  • Machine Learning  • Deep Learning  • Computer Vision  • Natural Language Processing (NLP)  • Reinforcement Learning • Generative AI  • LLM  • Master Thesis
       
 - **Executive Post Graduate in Machine Learning & Artificial Intelligence, India**
@@ -76,17 +76,6 @@ Qualified engineer with a triple Master’s degree from prestigious universities
 ***  
 
 ## <span class="animated-text">**AI-Related Skills:**</span>
-
-- **Mathematics and Statistics:**
-    - Linear Algebra, Statistics, Probability, Exploratory Data Analysis, Calculus, Differential Equations,  Numerical Methods, Geometry, Trigonometry, Vector Calculus, Complex Numbers, Mathematical Modeling.
-
-***
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/MATH.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
-</div>
-
-***
 
 - **Machine Learning:**
     - Machine learning algorithms and techniques, including Regression (Linear, Logistic, Polynomial, Ridge and Lasso Regression), Classification (Decision Trees, Random Forest, Support Vector Machines, Naive Bayes, K-Nearest Neighbors, Gradient Boosting), Clustering (K-Means, Hierarchical Clustering, DBSCAN, Gaussian Mixture Models)
@@ -149,6 +138,17 @@ RAG (Retrieval-Augmented Generation)
     - Exploratory data analysis (EDA), Data preprocessing, feature engineering, and data visualization and analysis
     - SQL for data querying and management
     - Kaggle for data science competitions and projects
+
+- **Mathematics and Statistics:**
+    - Linear Algebra, Statistics, Probability, Calculus, Differential Equations,  Numerical Methods, Geometry, Trigonometry, Vector Calculus, Complex Numbers, Mathematical Modeling.
+
+***
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="assets/img/MATH.png" alt="Image 1" style="width: auto; height: auto; object-fit: cover;">
+</div>
+
+***
 
 - **Software Development & Collaboration:**
     - Version control using Git and GitHub
@@ -296,6 +296,22 @@ RAG (Retrieval-Augmented Generation)
 - Nepali: Native or bilingual proficiency
   
 ***  
+
+## <span class="animated-text">**Certificates:**</span>
+
+- Certificate for Registered Engineers
+- The Deep Learning Specialization, DeepLearning.AI 
+- Crash Course on Python, Google 
+- Linear Algebra for Machine Learning and Data Science, DeepLearning.AI
+- Neural Networks and Deep Learning, DeepLearning.AI
+- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization, DeepLearning.AI
+- Convolutional Neural Networks, DeepLearning.AI
+- Sequence Models, DeepLearning.AI
+- Introduction to Artificial Intelligence (AI), IBM
+- Programming for Everybody (Getting Started with Python), University of Michigan 
+- The Smithsonian Entrepreneur Incubator Course, US Embassy
+- Mechanical Design, Solidworks 
+- Engineering and Product Design Processes, Arizona State University
 
 ## <span class="animated-text">**ML/AI Projects:**</span>
 
@@ -501,22 +517,6 @@ The performance of the bicycle was found to be increased significantly after imp
 </div>
 
 ***
-
-## <span class="animated-text">**Certificates:**</span>
-
-- Certificate for Registered Engineers
-- The Deep Learning Specialization, DeepLearning.AI 
-- Crash Course on Python, Google 
-- Linear Algebra for Machine Learning and Data Science, DeepLearning.AI
-- Neural Networks and Deep Learning, DeepLearning.AI
-- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization, DeepLearning.AI
-- Convolutional Neural Networks, DeepLearning.AI
-- Sequence Models, DeepLearning.AI
-- Introduction to Artificial Intelligence (AI), IBM
-- Programming for Everybody (Getting Started with Python), University of Michigan 
-- The Smithsonian Entrepreneur Incubator Course, US Embassy
-- Mechanical Design, Solidworks 
-- Engineering and Product Design Processes, Arizona State University
   
 ## <span class="animated-text">**Contact:**</span>
 
