@@ -77,6 +77,8 @@ Qualified engineer with a triple Master’s degree from prestigious universities
 
 ## <span class="animated-text">**AI-Related Skills:**</span>
 
+- **Machine Learning:**
+    - Algebra, Calculus, Differential Equations, Linear Algebra, Statistics, Probability, Numerical Methods, Geometry, Trigonometry, Vector Calculus, Complex Numbers, Mathematical Modeling.
 
 ***
 
