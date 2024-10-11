@@ -48,13 +48,13 @@ Qualified engineer with a triple Master’s degree from prestigious universities
 ## <span class="animated-text" style="color: #ff4500;">**Education:**</span>
 
 - **Master’s Degree in Engineering, USA**
-    - Mathematical and Computational Modeling  • Python Programming  • Derivative Pricing  • Deep Learning  • Data Visualization and Analysis  • Stochastic Modeling • Portfolio Management  • Financial Econometrics  • Machine Learning  • Risk Management  • Financial Econometrics  • Master Thesis
+    - Mathematical and Computational Modeling  • Data Visualization and Analysis  • Stochastic Modeling • Derivative Pricing • Python Programming  • Machine Learning  • Deep Learning  • Portfolio Management  • Financial Econometrics   • Risk Management  • Master Thesis 
       
 - **Master’s Degree in Machine Learning & Artificial Intelligence, UK**
-  - Statistics and EDA  • Machine Learning  • Deep Learning  • Natural Language Processing (NLP)  • Reinforcement Learning  • Computer Vision  • Generative AI  • LLM  • Master Thesis
+  - Statistics and EDA  • Machine Learning  • Deep Learning  • Computer Vision  • Natural Language Processing (NLP)  • Reinforcement Learning • Generative AI  • LLM  • Master Thesis
       
 - **Executive Post Graduate in Machine Learning & Artificial Intelligence, India**
-  - Python Programming  • Mathematics for AI/ML  • Statistics and Exploratory Data Analytics  • Data Analysis using SQL and Excel  • Data Visualisation  • Machine Learning  • Deep Learning  • Natural Language Processing (NLP)  • Reinforcement Learning  • Computer Vision  • Generative AI  • LLM  • Capstone  
+  - Python Programming  • Mathematics for AI/ML  • Statistics and Exploratory Data Analytics  • Data Analysis using SQL and Excel  • Data Visualisation  • Machine Learning  • Deep Learning  • Computer Vision • Natural Language Processing (NLP)  • Reinforcement Learning  • Generative AI  • LLM  • Capstone  
  
 - **Bachelor’s Degree in Mechanical Engineering, Nepal**
   - Engineering Mathematics • Statistics and Probability • Computer Programming • Control Systems • Numerical Method • CAD • Engineering Drawing • Project Engineering and Management • Engineering Economics • Engineering Professional Ethics • Electrical and Electronics Engineering • Metrology • SOM • Instrumentation and Measurement • Engineering Physics • Engineering Chemistry • Applied Mechanics • Thermodynamics • Fluid Mechanics • Theory of Machines and Mechanisms • Machine Design • Heat and Mass Transfer • Manufacturing Engineering • Material Science • Internal Combustion Engines • Renewable Energy Systems • Automobile Engineering • Hydraulics and Pneumatics • Industrial Engineering • Kinematics of Machines • Refrigeration and Air Conditioning • Finite Element Method • Project Work    
@@ -77,13 +77,19 @@ Qualified engineer with a triple Master’s degree from prestigious universities
 
 ## <span class="animated-text">**AI-Related Skills:**</span>
 
-- **Machine Learning & Deep Learning:**
-    - Machine learning algorithms and techniques, including Regression (Linear, Logistic, Polynomial), Classification (Decision Trees, Random Forest, Support Vector Machines, Naive Bayes, K-Nearest Neighbors), Clustering (K-Means, Hierarchical Clustering, DBSCAN), Neural Networks (Feedforward, Convolutional Neural Networks, Recurrent Neural Networks, Long Short-Term Memory), Deep Learning (Deep Belief Networks, Autoencoders, Generative Adversarial Networks)
+- **Machine Learning:**
+    - Machine learning algorithms and techniques, including Regression (Linear, Logistic, Polynomial, Ridge and Lasso Regression), Classification (Decision Trees, Random Forest, Support Vector Machines, Naive Bayes, K-Nearest Neighbors, Gradient Boosting), Clustering (K-Means, Hierarchical Clustering, DBSCAN, Gaussian Mixture Models)
+    - Model evaluation techniques (Cross-validation (K-Fold, Stratified K-Fold), Confusion Matrix, Precision, Recall, F1 Score, ROC-AUC, Precision-Recall curves, Mean Absolute Error, Mean Squared Error, RMSE, R² Score) and predictive modeling
+    - Hyperparameter tuning and optimization techniques (Grid Search, Random Search, Bayesian Optimization, Genetic Algorithms)
     - Reinforcement learning and mathematical modeling
     - Ensemble methods (Boosting, Bagging, AdaBoost, Gradient Boosting)
     - Dimensionality reduction techniques (Principal Component Analysis, t-SNE)
-    - Model evaluation techniques and predictive modeling
-    - Hyperparameter tuning and optimization techniques
+
+- **Deep Learning:**
+    - Neural Networks (Feedforward, Convolutional Neural Networks (CNN), Recurrent Neural Networks(RNN), Long Short-Term Memory, Gated Recurrent Units (GRU)), Deep Learning (Deep Belief Networks, Autoencoders, Generative Adversarial Networks)
+    - VGG, ResNet, Inception, EfficientNet
+    - Optimization Techniques (Backpropagation, Stochastic Gradient Descent (SGD) and variants (Adam, RMSprop, AdaGrad), Batch Normalization, Dropout, Layer Normalization)
+    
 
 - **Natural Language Processing (NLP) & Generative AI:**
     - NLP techniques and Libraries, generative AI, and large language models (LLMs)
