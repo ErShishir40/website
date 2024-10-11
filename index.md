@@ -300,7 +300,6 @@ RAG (Retrieval-Augmented Generation)
 ## <span class="animated-text">**ML/AI Projects:**</span>
 
 ### **AI-Driven Gesture Recognition System:**
-
 Developing a cutting-edge gesture recognition system for smart TVs, leveraging advanced deep learning techniques to enable intuitive, hands-free control. This project involves designing and implementing a robust deep learning model to accurately identify and classify five distinct user gestures from real-time video feeds. Utilizing sophisticated neural network architectures, including convolutional layers for feature extraction and recurrent layers for temporal pattern recognition, the system aims to translate user gestures into TV commands, eliminating the need for a remote control. This innovative approach enhances user experience by providing seamless and interactive control, advancing the usability and functionality of smart home devices.
 
 ***
@@ -312,7 +311,6 @@ Developing a cutting-edge gesture recognition system for smart TVs, leveraging a
 ***
 
 ### **AI-Driven Bike Sharing Project:**
-
 Developed a multiple linear regression model to forecast the demand for shared bikes using a dataset provided by BoomBikes, a leading bike-sharing service in the US. The project aimed to identify and analyze key factors influencing bike demand in various regions and weather conditions. The model was trained on historical data, incorporating variables such as temperature, humidity, wind speed, and seasonal effects to predict demand patterns. Feature engineering techniques, such as encoding categorical variables and scaling continuous variables, were used to improve model accuracy. Evaluated the model's performance using metrics like R-squared and Mean Absolute Error (MAE), achieving high predictive accuracy. The insights derived can help optimize resource allocation, improve customer satisfaction, and guide future business strategies.
 
 ***
@@ -324,7 +322,6 @@ Developed a multiple linear regression model to forecast the demand for shared b
 ***
 
 ### **AI-Driven House Price Prediction System:** 
-
 Designed and implemented a predictive model for house prices using advanced regression techniques, including Ridge and Lasso regression. This system leverages historical housing market data, with features such as property size, location, number of rooms, and neighborhood demographics. Ridge regression was used to mitigate multicollinearity, while Lasso regression helped with feature selection by reducing the weight of less important variables to zero. The model was optimized using cross-validation techniques and evaluated through performance metrics like R-squared and Root Mean Squared Error (RMSE), providing accurate and interpretable predictions. The system offers valuable insights for real estate investors, homebuyers, and market analysts to make data-driven decisions.
 
 ***
@@ -336,7 +333,6 @@ Designed and implemented a predictive model for house prices using advanced regr
 ***
 
 ### **AI-Driven Telecom Churn Prediction System:**
-
 Designing a churn prediction model for the telecommunications industry using advanced machine learning techniques. This project focuses on developing and optimizing predictive models to accurately forecast customer attrition, leveraging a range of algorithms including Logistic Regression, Decision Trees, and Random Forests. By systematically evaluating model performance through rigorous metrics and aligning with business objectives, the system aims to identify key predictor variables that contribute to customer churn. The ultimate goal is to implement the most effective model, providing actionable insights to enhance customer retention strategies and drive business growth.
 
 ***
@@ -348,7 +344,6 @@ Designing a churn prediction model for the telecommunications industry using adv
 ***
 
 ### **AI-Driven Melanoma-Detection System:**
-
 Engineering a state-of-the-art multiclass classification model utilizing a bespoke Convolutional Neural Network (CNN) architecture within TensorFlow to enable automated detection and classification of skin cancer. This project employs advanced deep learning methodologies, including sophisticated feature extraction and hierarchical neural network layers, to discern and differentiate melanoma and other dermatological malignancies with high precision. By integrating cutting-edge image preprocessing techniques and model optimization strategies, the system aims to deliver a highly reliable diagnostic tool that supports dermatologists in early and accurate cancer detection, thereby significantly enhancing clinical decision-making and patient management through automated, real-time analysis.
 
 ***
@@ -360,7 +355,6 @@ Engineering a state-of-the-art multiclass classification model utilizing a bespo
 ***
 
 ### **AI-Driven Custom Entity Detection System In Healthcare Data (NLP):**
-
 Developing an advanced Named Entity Recognition (NER) system tailored for the healthcare domain. This project focuses on leveraging state-of-the-art machine learning techniques to create a custom NER model designed to accurately extract and categorize medical entities from complex healthcare datasets. The primary goal is to identify and classify entities such as diseases, symptoms, and their corresponding treatments, enabling more efficient data analysis and supporting enhanced clinical decision-making. This AI-driven system significantly aids healthcare professionals, including doctors and medical researchers, by providing precise and actionable insights from vast amounts of unstructured data, ultimately contributing to improved patient outcomes and accelerated medical research.
 
 ***
@@ -372,7 +366,6 @@ Developing an advanced Named Entity Recognition (NER) system tailored for the he
 ***
 
 ### **AI-Driven Automatic Classification System Of Customer Complaints:**
-
 Developing an intelligent classification system for automating the categorization of customer complaint tickets. This project leverages advanced machine learning techniques to build a solution that accurately identifies and classifies the type of complaint raised by customers from unstructured text data. By employing sophisticated natural language processing (NLP) methods and machine learning algorithms, the system aims to streamline complaint management processes, enhance operational efficiency, and improve response accuracy. The ultimate objective is to enable businesses to swiftly address customer issues and drive better customer satisfaction through automated, precise complaint categorization.
 
 ***
@@ -384,7 +377,6 @@ Developing an intelligent classification system for automating the categorizatio
 ***
 
 ### **AI-Driven Fake News Detection System:**
-
 Developing a comprehensive Fake News Detection System employing a diverse array of machine learning models to combat misinformation. This project integrates several advanced classification algorithms, including Logistic Regression, Decision Tree Classification, Gradient Boosting Classifier, and Random Forest Classifier, to create a robust and reliable detection framework. By leveraging these diverse models, the system is designed to analyze textual data and identify misleading or false information with high accuracy. The approach incorporates feature engineering, model ensemble techniques, and rigorous evaluation metrics to ensure effective and scalable detection of fake news, contributing to a more informed and trustworthy information ecosystem.
 
 ***
@@ -396,7 +388,6 @@ Developing a comprehensive Fake News Detection System employing a diverse array 
 ***
 
 ### **Gen AI Project: Generative Search System (Mr.HelpMate AI):**
-
 Architecting a sophisticated Generative Search System named Mr.HelpMate AI, utilizing advanced Retrieval-Augmented Generation (RAG) techniques and state-of-the-art Hugging Face models. This project integrates cutting-edge frameworks such as LangChain and LlamaIndex to enhance the search experience through dynamic and contextually relevant responses. By combining powerful generative models with retrieval mechanisms, Mr.HelpMate AI aims to provide highly accurate and context-aware search results, enabling users to efficiently find and interact with information across diverse domains. This system leverages the latest advancements in AI to deliver intelligent and responsive search capabilities, transforming how users engage with digital content.
 
 ***
@@ -408,7 +399,6 @@ Architecting a sophisticated Generative Search System named Mr.HelpMate AI, util
 ***
 
 ### **AI-Driven Intelligent Symptom Checker:**
-
 Developed an AI-driven system designed to analyze user-reported symptoms and provide potential diagnoses in real-time. Utilizing advanced NLP and ML models, the system identifies and classifies symptoms to suggest possible medical conditions, as well as recommend potential treatment options. This empowers users with reliable health information while also assisting doctors and researchers in identifying patterns, enhancing early symptom evaluation, and improving healthcare accessibility. The tool supports healthcare professionals by streamlining diagnosis and treatment decisions, ultimately contributing to more efficient patient care.
 
 ***
@@ -420,7 +410,6 @@ Developed an AI-driven system designed to analyze user-reported symptoms and pro
 ***
 
 ### **AI-Driven Handwriting Detection System:**
-
 Developed an AI-powered handwriting detection system using a convolutional neural network (CNN) trained on a large dataset of handwritten images. The system efficiently classifies and recognizes digits and characters, utilizing advanced preprocessing techniques like normalization and data augmentation to enhance accuracy. With a well-optimized CNN architecture and regularization methods, the model achieved high precision, making it suitable for real-time applications.
 
 ***
@@ -432,7 +421,6 @@ Developed an AI-powered handwriting detection system using a convolutional neura
 ***
 
 ### **AI-Driven Credit Card Fraud Detection System:**
-
 Developed an AI-based credit card fraud detection system using machine learning algorithms to identify fraudulent transactions. The system was trained on a highly imbalanced dataset and utilized techniques such as oversampling and feature scaling to improve detection accuracy. Key models like Logistic Regression, Random Forest, and Gradient Boosting were implemented, with hyperparameter tuning and cross-validation to enhance performance. The final model achieved high precision and recall, providing real-time fraud detection capabilities.
 
 ***
@@ -444,7 +432,6 @@ Developed an AI-based credit card fraud detection system using machine learning 
 ***
 
 ### **AI-Driven Stock Price Prediction System:**
-
 Developed an AI-based stock price prediction system leveraging Long Short-Term Memory (LSTM) neural networks to model and forecast future stock prices based on historical time series data. The system was designed to capture long-term dependencies and trends in financial data using techniques such as data normalization, sliding window for sequence generation, and feature engineering including moving averages and technical indicators. LSTM layers were optimized with dropout regularization and Adam optimizer to prevent overfitting and improve convergence. The model was evaluated using metrics like Mean Squared Error (MSE).
 
 ***
@@ -456,7 +443,6 @@ Developed an AI-based stock price prediction system leveraging Long Short-Term M
 ***
 
 ### **Eye for the Blind:**
-
 Developed an AI-powered assistive technology, "Eye for the Blind," designed to help visually impaired individuals by recognizing and describing their surroundings in real-time. Leveraged deep learning techniques, including object detection models like YOLOv5, and natural language processing (NLP) for converting visual data into spoken descriptions. The system integrates a camera to capture images, processes them with the trained model, and provides auditory feedback via speech synthesis.
 
 ***
@@ -468,7 +454,6 @@ Developed an AI-powered assistive technology, "Eye for the Blind," designed to h
 ***
 
 ### **AI-Driven Heart Failure Prediction System:**
-
 Developed a machine learning model to predict heart failure based on key clinical parameters, including anaemia, creatinine phosphokinase levels, diabetes, ejection fraction, blood pressure, platelets, serum creatinine, and serum sodium. This AI-driven system analyzes these indicators to predict heart failure risk, aiding in early diagnosis and improving treatment outcomes. Designed to assist doctors, researchers, and healthcare professionals in making more informed decisions, it is a cutting-edge solution at the intersection of AI and healthcare.
 
 ***
@@ -482,7 +467,6 @@ Developed a machine learning model to predict heart failure based on key clinica
 ## <span class="animated-text">**Mechanical Research Projects:**</span>
 
 ### **Design and Development of Magnetic Bicycle:**
-
 The conversion of magnetic power into mechanical energy is the prime subject of study for the researcher. The project on magnetic powered hybrid bicycle is focused on the investigation of the feasibility of the mechanical energy from the magnet which use its natural properties of attraction and repulsion of the magnet poles to create rotation of the shaft which can be harnessed to do a useful work.
 
 ### **Design:**
@@ -497,7 +481,6 @@ The strong Neodymium magnets (NdFeB40MGOe) arranged in proper inclination in fly
 ***
 
 ### **Procedure:**
-
 The flywheel design was performed in Solidworks, magnetic simulation was performed in ANSYS software (FEMM). The repulsive force between magnets in outer circumference of flywheel and inner surface of the cover provides torque in sprocket shaft in addition to manual torque. The magnetic field, resultant force on magnetic flywheel was determined for rectangular magnets in circular position by magnetic simulation. The performance characteristic of the bicycle was determined by conducting practical experiment. The final design of the prototype was selected based on the optimum result obtained from the magnetic simulation in FEMM software. The alternative magnetic shielding material was used instead of Mu metal due to unavailability in local market. 
 
 ***
@@ -509,7 +492,6 @@ The flywheel design was performed in Solidworks, magnetic simulation was perform
 ***
 
 ### **Conclusion:**
-
 The performance of the bicycle was found to be increased significantly after implementation of the magnetic flywheel. Thus, the detail study on this project has led to the need of more research and can be developed as one of means of green energy.
 
 ***
@@ -525,7 +507,11 @@ The performance of the bicycle was found to be increased significantly after imp
 - Certificate for Registered Engineers
 - The Deep Learning Specialization, DeepLearning.AI 
 - Crash Course on Python, Google 
-- Linear Algebra for Machine Learning and Data Science, DeepLearning.AI 
+- Linear Algebra for Machine Learning and Data Science, DeepLearning.AI
+- Neural Networks and Deep Learning, DeepLearning.AI
+- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization, DeepLearning.AI
+- Convolutional Neural Networks, DeepLearning.AI
+- Sequence Models, DeepLearning.AI
 - Introduction to Artificial Intelligence (AI), IBM
 - Programming for Everybody (Getting Started with Python), University of Michigan 
 - The Smithsonian Entrepreneur Incubator Course, US Embassy
