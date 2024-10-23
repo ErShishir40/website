@@ -230,9 +230,9 @@ RAG (Retrieval-Augmented Generation)
 ## <span class="animated-text">**Soft Skills:**</span>
 
 - **Communication Skills:**
-    - Clear and effective verbal and written communication
-    - Active Listening: Fully understanding and responding to what others communicate
-    - Interpersonal Skills: Building and maintaining positive relationships
+    - Clear communication
+    - Active Listening
+    - Interpersonal Skills
 
 - **Collaboration & Teamwork:**
     - Ability to collaborate and work well within a team
