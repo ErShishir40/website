@@ -48,7 +48,7 @@ Qualified engineer with a triple Master’s degree from prestigious universities
 ## <span class="animated-text" style="color: #ff4500;">**Education:**</span>
 
 - **Master’s Degree in Engineering, USA**
-    - Mathematical and Computational Modeling  • Data Visualization and Analysis  • Stochastic Modeling • Derivative Pricing • Python Programming  • Machine Learning  • Deep Learning  • Portfolio Management  • Financial Econometrics   • Risk Management  • Master Thesis 
+    - Mathematical and Computational Modeling  • Data Visualization and Analysis  • Stochastic Modeling • Derivative Pricing • Python Programming  • Machine Learning  • Deep Learning  • Portfolio Management  • Organization and project management • Risk Management  • Marketing, Finance, Accounting, and Human resources (HR)  • Master Thesis 
       
 - **Master’s Degree in Artificial Intelligence (AI), UK**
   - Statistics and EDA  • Machine Learning  • Deep Learning  • Computer Vision  • Natural Language Processing (NLP)  • Reinforcement Learning • Generative AI  • LLM  • Master Thesis
